@@ -1,0 +1,1 @@
+{"company": "restauracao", "date": "2017-11-11", "address": "rua machado dos santos 9500-010 ponta delgada", "total": "11.20", "invoice_number": "FT 101/13", "nif_buyer": "510776914", "iva_amount": "0.92", "nif_seller": "513631496"}

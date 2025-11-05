@@ -1,0 +1,1 @@
+{"company": "intermarche", "date": "", "address": "", "total": "30,12", "invoice_number": "FS 311D08119/34135", "nif_buyer": "510776914", "iva_amount": "5,63", "nif_seller": "514.163.623"}

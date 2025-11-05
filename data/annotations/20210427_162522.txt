@@ -1,0 +1,1 @@
+{"company": "parques de estacionamento s.a", "date": "2019/03/08", "address": "av. conde valbom, 38 piso 5 1050-068 lisboa", "total": "1.85", "invoice_number": "081011", "nif_buyer": "", "iva_amount": "", "nif_seller": "503311685"}

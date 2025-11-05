@@ -1,0 +1,1 @@
+{"company": "j.j. figueira, lda", "date": "02/10/2019", "address": "r. marquês de fronteira, nº70 a 1070-299 lisboa", "total": "2,10", "invoice_number": "3378/201", "nif_buyer": "510776914", "iva_amount": "0,39", "nif_seller": "501599746"}

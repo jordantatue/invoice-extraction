@@ -1,0 +1,1 @@
+{"company": "", "date": "2017-11-24", "address": "9060-420 funchal", "total": "27,29", "invoice_number": "FS M/0040662", "nif_buyer": "510776914", "iva_amount": "3,20", "nif_seller": "PT513235752"}

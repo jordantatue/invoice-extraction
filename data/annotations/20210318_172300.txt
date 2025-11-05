@@ -1,0 +1,1 @@
+{"company": "penha da graca ferragens unip, lda", "date": "2019-01-29", "address": "rua penha franca no63 a-b-c-d 1170-300 lisboa", "total": "16,00", "invoice_number": "1A1901/608", "nif_buyer": "510776914", "iva_amount": "2,99", "nif_seller": "510010970"}

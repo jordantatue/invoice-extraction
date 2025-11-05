@@ -1,0 +1,1 @@
+{"company": "cooking 4 you", "date": "2019-09-23", "address": "rua da benificiencia 1600-019", "total": "65,45", "invoice_number": "FT 002/8333", "nif_buyer": "510776914", "iva_amount": "8.67", "nif_seller": "500607167"}

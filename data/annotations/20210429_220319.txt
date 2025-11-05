@@ -1,0 +1,1 @@
+{"company": "security center", "date": "2019-11-05", "address": "lisboa", "total": "64.10", "invoice_number": "FTR 31/6397", "nif_buyer": "510776914", "iva_amount": "11.99", "nif_seller": "506175502"}

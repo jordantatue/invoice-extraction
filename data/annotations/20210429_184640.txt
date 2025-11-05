@@ -1,0 +1,1 @@
+{"company": "souldough", "date": "2019-09-14", "address": "av. do atlantico, s/n 2705-288 colares", "total": "21.00", "invoice_number": "FS A/10120", "nif_buyer": "510776914", "iva_amount": "2.42", "nif_seller": "514707429"}

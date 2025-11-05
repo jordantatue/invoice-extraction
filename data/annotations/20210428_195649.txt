@@ -1,0 +1,1 @@
+{"company": "roque & sousa", "date": "03-02-19", "address": "av 23 de julho 9 2800-099 cova da piedade", "total": "65,57", "invoice_number": "195907", "nif_buyer": "510776914", "iva_amount": "12,26", "nif_seller": "507193920"}

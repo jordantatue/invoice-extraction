@@ -1,0 +1,1 @@
+{"company": "v seis exploração de combustiveis, lda", "date": "2019-04-11", "address": "av v6 alto do quintão 8500-510 portimão", "total": "52,10", "invoice_number": "FS 27043_003/177419", "nif_buyer": "514407395", "iva_amount": "9,74", "nif_seller": "503141500"}

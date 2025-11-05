@@ -1,0 +1,1 @@
+{"company": "repsol", "date": "2019-07-15", "address": "av jose malhoa n16-1099-091 lisboa", "total": "31,53", "invoice_number": "FR 4371TPV3/390007838", "nif_buyer": "514407395", "iva_amount": "5,90", "nif_seller": "503 769 959"}

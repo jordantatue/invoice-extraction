@@ -1,0 +1,1 @@
+{"company": "talho restaurante alxama", "date": "2019-03-28", "address": "urb duas sentinelas, tl. 170 8125-018 quarteira", "total": "20.00", "invoice_number": "FR 190021/292", "nif_buyer": "514407395", "iva_amount": "2.30", "nif_seller": "513179682"}

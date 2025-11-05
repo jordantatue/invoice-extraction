@@ -1,0 +1,1 @@
+{"company": "soc com ladal lda", "date": "2019-01-23", "address": "campolide", "total": "8,00", "invoice_number": "00821925", "nif_buyer": "", "iva_amount": "", "nif_seller": ""}

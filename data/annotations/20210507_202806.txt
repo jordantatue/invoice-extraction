@@ -1,0 +1,1 @@
+{"company": "worten", "date": "2017-10-05", "address": "cc tavira gran plaza r candido dos reis 8800-314 tavira", "total": "39.98", "invoice_number": "FT BPN004/041235", "nif_buyer": "PT510776914", "iva_amount": "7.48", "nif_seller": "503630350"}

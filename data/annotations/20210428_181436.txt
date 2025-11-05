@@ -1,0 +1,1 @@
+{"company": "de portugal, s.a.", "date": "2019/03/26", "address": "da portagem 2809-013 almada", "total": "1,05", "invoice_number": "RB 160110/3106052", "nif_buyer": "", "iva_amount": "", "nif_seller": "503 933 813"}

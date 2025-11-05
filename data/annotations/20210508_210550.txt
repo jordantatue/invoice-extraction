@@ -1,0 +1,1 @@
+{"company": "costa braz", "date": "2018-04-02", "address": "cc. continente, piso -1 lj e11", "total": "10,75", "invoice_number": "FS 1A1801/2820", "nif_buyer": "510776914", "iva_amount": "2,01", "nif_seller": "152535403"}

@@ -1,0 +1,1 @@
+{"company": "area infinitas - design de interiores, s.a.", "date": "2019-09-30", "address": "amoreiras shopping center loja 2159", "total": "21,50", "invoice_number": "VD1136/3645", "nif_buyer": "510776914", "iva_amount": "4,02", "nif_seller": "502580097"}

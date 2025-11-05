@@ -1,0 +1,1 @@
+{"company": "continente", "date": "14/07/2018", "address": "urbanizacao quinta da baleia lote 2 2655-378 ericeira", "total": "43,15", "invoice_number": "FS 005/030395", "nif_buyer": "PT510776914", "iva_amount": "8,07", "nif_seller": "502011475"}

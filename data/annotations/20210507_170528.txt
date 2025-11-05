@@ -1,0 +1,1 @@
+{"company": "a pousadinha", "date": "2019-10-05", "address": "av dr lucio vidal 60 1 andar 3840-401 vagos", "total": "4,38", "invoice_number": "FR 1/4", "nif_buyer": "510776914", "iva_amount": "0,50", "nif_seller": "513771204"}

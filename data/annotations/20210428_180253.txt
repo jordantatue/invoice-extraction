@@ -1,0 +1,1 @@
+{"company": "bcm - bricolage s.a.", "date": "2019-04-01", "address": "alfragide", "total": "18,46", "invoice_number": "", "nif_buyer": "", "iva_amount": "", "nif_seller": ""}

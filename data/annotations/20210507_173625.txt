@@ -1,0 +1,1 @@
+{"company": "continente", "date": "20/10/2019", "address": "rua joao mensanca, 505 4464-503 senhora da hora", "total": "22,48", "invoice_number": "FS AA1046/240307", "nif_buyer": "PT510776914", "iva_amount": "4,20", "nif_seller": "PT502011475"}

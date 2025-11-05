@@ -1,0 +1,1 @@
+{"company": "my palace", "date": "2019-09-30", "address": "av. boavista, 4191", "total": "19.50", "invoice_number": "FR 19MPSD22/40158", "nif_buyer": "510776914", "iva_amount": "1.84", "nif_seller": "510687962"}

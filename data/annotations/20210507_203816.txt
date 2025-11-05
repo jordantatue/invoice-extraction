@@ -1,0 +1,1 @@
+{"company": "flying tiger", "date": "2017-11-11", "address": "av antonio bernardo cabral 277-219 oeiras", "total": "4,00", "invoice_number": "FR 17123/45", "nif_buyer": "510776914", "iva_amount": "0,75", "nif_seller": "510414850"}

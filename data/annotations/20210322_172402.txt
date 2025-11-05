@@ -1,0 +1,1 @@
+{"company": "eva", "date": "20-06-2019", "address": "av da republica 5", "total": "20,00", "invoice_number": "02614/91001EA", "nif_buyer": "514407395", "iva_amount": "1,13", "nif_seller": "502.536.071"}

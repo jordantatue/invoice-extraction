@@ -1,0 +1,1 @@
+{"company": "worten", "date": "21/07/2019", "address": "rua de s. pedro horta da boavista n 133 8500-513 portimao", "total": "9.99", "invoice_number": "FT 8TA109/012049", "nif_buyer": "514407395", "iva_amount": "1,87", "nif_seller": "503630330"}

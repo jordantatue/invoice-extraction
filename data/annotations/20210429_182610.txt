@@ -1,0 +1,1 @@
+{"company": "altis grand hotel", "date": "2019-10-03", "address": "rua castilho, 11 1269-072 lisboa", "total": "120.00", "invoice_number": "FTBIS 1020060/179", "nif_buyer": "510776914", "iva_amount": "13.32", "nif_seller": "500017450"}

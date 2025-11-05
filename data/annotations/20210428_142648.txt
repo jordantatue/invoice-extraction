@@ -1,0 +1,1 @@
+{"company": "worten", "date": "12/12/2019", "address": "cc vasco da gama c.c. vasco da gama 1990-094 lisboa", "total": "17.99", "invoice_number": "", "nif_buyer": "PT510776914", "iva_amount": "3,36", "nif_seller": "503530330"}

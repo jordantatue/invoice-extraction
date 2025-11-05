@@ -1,0 +1,1 @@
+{"company": "magiaamesa lda", "date": "2017-11-23", "address": "ei monumental 179a 9000-100", "total": "49.60", "invoice_number": "FR 002/9161", "nif_buyer": "510776914", "iva_amount": "6.95", "nif_seller": "516068928"}

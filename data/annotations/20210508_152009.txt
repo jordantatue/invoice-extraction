@@ -1,0 +1,1 @@
+{"company": "farmacia estacio", "date": "06-11-2018", "address": "prç d pedro iv, 60 a 63 1100-200 lisboa", "total": "5,74", "invoice_number": "Y009/84646", "nif_buyer": "510776914", "iva_amount": "0,32", "nif_seller": "506406415"}

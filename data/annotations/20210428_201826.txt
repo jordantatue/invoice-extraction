@@ -1,0 +1,1 @@
+{"company": "easy style", "date": "2019-05-29", "address": "rua fernao lopes no 2 1000-132 lisboa", "total": "12.00", "invoice_number": "FAC 1101/00004180", "nif_buyer": "510776914", "iva_amount": "2.24", "nif_seller": "240740831"}

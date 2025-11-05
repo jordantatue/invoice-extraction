@@ -1,0 +1,1 @@
+{"company": "sol dourado shopping", "date": "2019-07-12", "address": "sitio do semino 484 a 8125-303 quarteira", "total": "14.15", "invoice_number": "FAC 201/00084215", "nif_buyer": "514407395", "iva_amount": "2.65", "nif_seller": "247388858"}

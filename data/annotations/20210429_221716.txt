@@ -1,0 +1,1 @@
+{"company": "elencojasmim lda", "date": "2019-11-25", "address": "rua comandante germano dias 10 2780-247 ofiras", "total": "15.45", "invoice_number": "FAC 101/00023869", "nif_buyer": "510776914", "iva_amount": "2.89", "nif_seller": "510793568"}

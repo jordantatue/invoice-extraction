@@ -1,0 +1,1 @@
+{"company": "copimatica", "date": "2017-11-11", "address": "oeiras parque, loja 1017 - paco arcos 2780-219 oeiras", "total": "5.43", "invoice_number": "FTR 2/68637", "nif_buyer": "510776914", "iva_amount": "1.02", "nif_seller": "502431377"}

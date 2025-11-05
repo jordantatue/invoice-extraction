@@ -1,0 +1,1 @@
+{"company": "bragaparques, s.a.", "date": "24.09.19", "address": "4700 braga", "total": "2.90", "invoice_number": "K2190105707", "nif_buyer": "", "iva_amount": "", "nif_seller": "503208426"}

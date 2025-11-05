@@ -1,0 +1,1 @@
+{"company": "wok to walk marshopping algarve", "date": "2019-02-23", "address": "av d. joão ii, nº30, 4ºb lisboa 1990-092", "total": "12.70", "invoice_number": "FT 838/203", "nif_buyer": "514407395", "iva_amount": "1.30", "nif_seller": "503681756"}

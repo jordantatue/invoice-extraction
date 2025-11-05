@@ -1,0 +1,1 @@
+{"company": "intermarche", "date": "2019-06-07", "address": "8400-557 carvoeiro lga", "total": "17,84", "invoice_number": "FS S/0000897", "nif_buyer": "514407395", "iva_amount": "3,34", "nif_seller": "PT259318329"}

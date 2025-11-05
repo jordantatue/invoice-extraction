@@ -1,0 +1,1 @@
+{"company": "", "date": "2019-03-29", "address": "são domingos de rana", "total": "20,95", "invoice_number": "02221061902/0009834", "nif_buyer": "", "iva_amount": "", "nif_seller": "502 790 024"}

@@ -1,0 +1,1 @@
+{"company": "bcm - bricolage s.a.", "date": "2019-03-18", "address": "2650-000 amadora", "total": "32,97", "invoice_number": "", "nif_buyer": "", "iva_amount": "", "nif_seller": ""}

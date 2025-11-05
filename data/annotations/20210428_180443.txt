@@ -1,0 +1,1 @@
+{"company": "silectrica", "date": "2019-04-02", "address": "lisboa", "total": "12,25", "invoice_number": "00746930", "nif_buyer": "", "iva_amount": "", "nif_seller": ""}

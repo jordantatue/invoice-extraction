@@ -1,0 +1,1 @@
+{"company": "siletrica", "date": "2019-11-21", "address": "rua da madalena 176 1100-324 lisboa", "total": "9,84", "invoice_number": "FS A9/13470", "nif_buyer": "510776914", "iva_amount": "1.84", "nif_seller": "500557721"}

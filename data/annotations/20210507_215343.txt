@@ -1,0 +1,1 @@
+{"company": "bp", "date": "2017-11-11", "address": "av mosenhor bastos 2520-206 peniche", "total": "24,76", "invoice_number": "FS 27060_003/086415", "nif_buyer": "PT510776914", "iva_amount": "4,63", "nif_seller": "508729084"}

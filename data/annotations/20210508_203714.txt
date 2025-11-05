@@ -1,0 +1,1 @@
+{"company": "ikea", "date": "2018-07-10", "address": "", "total": "29,50", "invoice_number": "", "nif_buyer": "", "iva_amount": "5,52", "nif_seller": "505416654"}

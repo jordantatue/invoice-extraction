@@ -1,0 +1,1 @@
+{"company": "artisanii - loja de campo de ourique", "date": "2019-04-12", "address": "av. alvares cabral, 65b 1250-017 lisboa", "total": "14,50", "invoice_number": "FT 10A1901Z1/2209", "nif_buyer": "510776914", "iva_amount": "2,71", "nif_seller": "508847265"}

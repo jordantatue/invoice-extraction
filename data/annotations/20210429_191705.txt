@@ -1,0 +1,1 @@
+{"company": "galp", "date": "01-10-19", "address": "qt s jose dos quartos, apartado 2 2601-906castanhei", "total": "24.10", "invoice_number": "012010004659FAAA00000113462019/000025418", "nif_buyer": "510776914", "iva_amount": "4.51", "nif_seller": "PT502878355"}

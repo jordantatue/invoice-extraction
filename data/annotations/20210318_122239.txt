@@ -1,0 +1,1 @@
+{"company": "pa arroios", "date": "2019-02-01", "address": "lisboa", "total": "10,84", "invoice_number": "00960710", "nif_buyer": "", "iva_amount": "", "nif_seller": ""}

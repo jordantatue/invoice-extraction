@@ -1,0 +1,1 @@
+{"company": "leroy merlin", "date": "2019-02-15", "address": "alfragide", "total": "161,50", "invoice_number": "", "nif_buyer": "", "iva_amount": "", "nif_seller": ""}

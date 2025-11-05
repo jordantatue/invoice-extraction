@@ -1,0 +1,1 @@
+{"company": "taberna açor", "date": "2017/11/09", "address": "rua dos mercadores 41 9500-092 ponta delgada", "total": "44,95", "invoice_number": "A/54681", "nif_buyer": "510776914", "iva_amount": "1,37", "nif_seller": "296629084"}

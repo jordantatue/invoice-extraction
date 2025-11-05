@@ -1,0 +1,1 @@
+{"company": "", "date": "2019-10-28", "address": "r. alfredo silva lt 18 arm1 2785-656 s. d. r.", "total": "3.90", "invoice_number": "FTR 6/17381", "nif_buyer": "510776914", "iva_amount": "0.73", "nif_seller": "506175502"}

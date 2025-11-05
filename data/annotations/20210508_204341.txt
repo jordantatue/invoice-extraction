@@ -1,0 +1,1 @@
+{"company": "", "date": "2018-05-28", "address": "av. dr. catanho menezes 2530-117 lourinha", "total": "40,01", "invoice_number": "FS 27062_004/031006", "nif_buyer": "PT510776914", "iva_amount": "7,48", "nif_seller": "501790594"}

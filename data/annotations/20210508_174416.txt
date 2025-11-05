@@ -1,0 +1,1 @@
+{"company": "chen jianzhen", "date": "2018-11-10", "address": "rua ferreira borges 12a 1350-132 lisboa", "total": "14.50", "invoice_number": "FAC 101/00112543", "nif_buyer": "510776914", "iva_amount": "2.71", "nif_seller": "261958666"}

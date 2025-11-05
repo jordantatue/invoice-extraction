@@ -1,0 +1,1 @@
+{"company": "", "date": "2019-02-22", "address": "", "total": "15,58", "invoice_number": "FR CTT2019FR881074704/1727", "nif_buyer": "510776914", "iva_amount": "0,48", "nif_seller": ""}

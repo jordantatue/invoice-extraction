@@ -1,0 +1,1 @@
+{"company": "requintefinal, lda.", "date": "2019-03-27", "address": "cacela velha-8900-019 vila nova cacela", "total": "19,90", "invoice_number": "19FT 001/161", "nif_buyer": "514407395", "iva_amount": "2,29", "nif_seller": "513160884"}

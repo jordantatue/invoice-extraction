@@ -1,0 +1,1 @@
+{"company": "fnac", "date": "2017-11-17", "address": "r. prof carlos alberto mota pinto n 9 6b 1070-374 lisboa", "total": "5,88", "invoice_number": "0030152017110000/003684", "nif_buyer": "510776914", "iva_amount": "1,10", "nif_seller": "503952730"}

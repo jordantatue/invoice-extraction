@@ -1,0 +1,1 @@
+{"company": "alves bandeira, s.a.", "date": "2019-02-01", "address": "3350-110 vila nova de poiares", "total": "10,84", "invoice_number": "479A2/125516", "nif_buyer": "510776914", "iva_amount": "2,03", "nif_seller": "500433402"}

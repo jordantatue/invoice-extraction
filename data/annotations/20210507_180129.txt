@@ -1,0 +1,1 @@
+{"company": "jin & jin lda.", "date": "2019/09/15", "address": "rua condes de monsanto 2b/c 1100-159 lisboa", "total": "7,80", "invoice_number": "A/235191", "nif_buyer": "510776914", "iva_amount": "1,46", "nif_seller": "507097017"}

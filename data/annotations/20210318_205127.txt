@@ -1,0 +1,1 @@
+{"company": "staples portugal sa", "date": "2019-01-16", "address": "2795-684 carnaxide", "total": "293,13", "invoice_number": "00102213", "nif_buyer": "", "iva_amount": "", "nif_seller": ""}

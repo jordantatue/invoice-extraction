@@ -1,0 +1,1 @@
+{"company": "jumbo", "date": "2019-04-18", "address": "1300 - 553 lisboa", "total": "19,64", "invoice_number": "9230112019040000/205499", "nif_buyer": "514407395", "iva_amount": "3,67", "nif_seller": "507.607.920"}

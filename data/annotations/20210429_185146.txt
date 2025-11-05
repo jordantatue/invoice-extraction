@@ -1,0 +1,1 @@
+{"company": "grande onda", "date": "2019-10-05", "address": "av. marginal - praia de carcavelos 2775-604 carcavelos", "total": "26.95", "invoice_number": "FAC-S/1/326448", "nif_buyer": "510776914", "iva_amount": "2,65", "nif_seller": "504446738"}

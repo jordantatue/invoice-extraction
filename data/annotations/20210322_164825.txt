@@ -1,0 +1,1 @@
+{"company": "restaurante sakurai", "date": "2019-07-22", "address": "rua das caravelas ed. praia dourada loja 4 8365-116 armacao de pera", "total": "12.95", "invoice_number": "FT 101/00021980", "nif_buyer": "514407395", "iva_amount": "1.49", "nif_seller": "569986971"}

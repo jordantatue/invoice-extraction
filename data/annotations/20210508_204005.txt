@@ -1,0 +1,1 @@
+{"company": "seasonbelievers-supermercados lda", "date": "2018-06-29", "address": "brasil 3 dto 83 2735-673 são marcos", "total": "4,16", "invoice_number": "FT 078550220180102/00002506", "nif_buyer": "510776914", "iva_amount": "0,78", "nif_seller": "513067353"}

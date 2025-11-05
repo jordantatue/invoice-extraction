@@ -1,0 +1,1 @@
+{"company": "propel", "date": "01/11/2017", "address": "a-22 km 31 silves", "total": "40.00", "invoice_number": "FT 63540100012017/00008619", "nif_buyer": "510776914", "iva_amount": "7.48", "nif_seller": "500223840"}

@@ -1,0 +1,1 @@
+{"company": "mosteiro do leitao", "date": "2019-03-03", "address": "casal da amieira2440-477", "total": "132,10", "invoice_number": "FT 1A1999E1/300", "nif_buyer": "510776914", "iva_amount": "17,22", "nif_seller": "508 578 167"}

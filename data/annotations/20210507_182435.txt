@@ -1,0 +1,1 @@
+{"company": "fabrica da nata restauradores", "date": "2019-09-30", "address": "praca dos restauradores, n 62-68 1250-110 lisboa", "total": "6.00", "invoice_number": "FS 022/1322591", "nif_buyer": "510776914", "iva_amount": "0.69", "nif_seller": "504273183"}

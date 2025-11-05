@@ -1,0 +1,1 @@
+{"company": "lidl & cia", "date": "01.10.17", "address": "barranco do rodrigo, v 7 - portimão 2714-510", "total": "5,87", "invoice_number": "VD 033000117/003017", "nif_buyer": "510776914", "iva_amount": "1,10", "nif_seller": "503 340 855"}

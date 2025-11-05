@@ -1,0 +1,1 @@
+{"company": "restaurante lobo do mar", "date": "2019-03-29", "address": "urb. quinta dos arcos ed. quinas ii lote 6 1ºdrt. 8365-186 armacao de pera", "total": "25,00", "invoice_number": "1A1901/44", "nif_buyer": "514407395", "iva_amount": "2,88", "nif_seller": "513762558"}

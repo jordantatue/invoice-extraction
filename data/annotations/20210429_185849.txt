@@ -1,0 +1,1 @@
+{"company": "super frutas do calhariz", "date": "2019/09/05", "address": "largo calhariz, 1 1200-086 lisboa", "total": "3,47", "invoice_number": "C/26255", "nif_buyer": "510776914", "iva_amount": "0,20", "nif_seller": "509684122"}

@@ -1,0 +1,1 @@
+{"company": "marinagel, similares de hotelaria, sa", "date": "2019-03-26", "address": "edif. marina gaivota, lj. 17 8125 022 vilamoura", "total": "20,00", "invoice_number": "FA T5/7348", "nif_buyer": "514407395", "iva_amount": "15,14", "nif_seller": "503673838"}

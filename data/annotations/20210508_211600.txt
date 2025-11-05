@@ -1,0 +1,1 @@
+{"company": "intermarche", "date": "", "address": "da lagoa n 27 2665-279 malveira", "total": "20.00", "invoice_number": "1P1T00A85C007CC6E0/21453", "nif_buyer": "510776914", "iva_amount": "3.74", "nif_seller": "507 776 283"}

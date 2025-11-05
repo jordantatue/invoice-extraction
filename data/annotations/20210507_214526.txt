@@ -1,0 +1,1 @@
+{"company": "galp", "date": "11-11-17", "address": "parque dinis da mota n 4 9500-241ponta del", "total": "26.73", "invoice_number": "012010003305FAAB00009656272017/000011618", "nif_buyer": "510776914", "iva_amount": "4.08", "nif_seller": "PT512003637"}

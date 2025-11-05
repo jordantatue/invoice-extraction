@@ -1,0 +1,1 @@
+{"company": "farmacia central", "date": "13-03-2019", "address": "centro comercial continente de portimão 8500-510 portimão", "total": "19,85", "invoice_number": "F U003/26424", "nif_buyer": "514407395", "iva_amount": "3,71", "nif_seller": "514235977"}

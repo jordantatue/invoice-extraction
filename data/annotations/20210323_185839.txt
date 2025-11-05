@@ -1,0 +1,1 @@
+{"company": "", "date": "2019-02-26", "address": "", "total": "22,40", "invoice_number": "FT 2545/6066", "nif_buyer": "514407395", "iva_amount": "1,27", "nif_seller": ""}

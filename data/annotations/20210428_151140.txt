@@ -1,0 +1,1 @@
+{"company": "virgilio & martins, lda.", "date": "2019/03/20", "address": "avenida miguel bombarda 41-b e 60a 2700-581 amadora", "total": "5,00", "invoice_number": "A/7294", "nif_buyer": "510776914", "iva_amount": "0,93", "nif_seller": "500 429 987"}

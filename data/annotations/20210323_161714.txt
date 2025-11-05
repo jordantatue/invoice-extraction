@@ -1,0 +1,1 @@
+{"company": "galp", "date": "2019-06-19", "address": "est. montechoro torre mosqueira 8200-387albufeira", "total": "60.00", "invoice_number": "012010002337FAAA00000191072019/000013670", "nif_buyer": "514407395", "iva_amount": "11.22", "nif_seller": "PT508668999"}

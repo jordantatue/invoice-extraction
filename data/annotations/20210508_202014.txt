@@ -1,0 +1,1 @@
+{"company": "auto lis", "date": "13/08/2018", "address": "da palma, 273 - 1100-391 lisboa", "total": "10.01", "invoice_number": "PO 001/1806719", "nif_buyer": "510776914", "iva_amount": "1.87", "nif_seller": "501 470 492"}

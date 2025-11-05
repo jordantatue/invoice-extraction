@@ -1,0 +1,1 @@
+{"company": "supermercado rocha s.a.", "date": "2019-05-21", "address": "rua 1 de dezembro 45-3 1249-057 lisboa", "total": "3.99", "invoice_number": "FT 20192001/138", "nif_buyer": "510776914", "iva_amount": "0.226", "nif_seller": "500403201"}

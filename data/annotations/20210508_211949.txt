@@ -1,0 +1,1 @@
+{"company": "algesdecor", "date": "06 abr 2018", "address": "rua luis de camoes 34 a 1495-081 alges", "total": "11.01", "invoice_number": "FR MNV2/580", "nif_buyer": "510776914", "iva_amount": "2.06", "nif_seller": "502.689.390"}

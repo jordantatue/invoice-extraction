@@ -1,0 +1,1 @@
+{"company": "gestpost gestao e administração de postos de abastecimento unipessoal lda", "date": "2019-11-15", "address": "av jose malhoa n 16-1099-091 lisboa", "total": "9,98", "invoice_number": "FR 4000TPV2/290029433", "nif_buyer": "510776914", "iva_amount": "1,87", "nif_seller": "503 769 959"}

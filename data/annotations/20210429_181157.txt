@@ -1,0 +1,1 @@
+{"company": "bp", "date": "2019-08-28", "address": "av. almirante gago coutinho 1000-016 lisbpa", "total": "31,85", "invoice_number": "FR 270063003/039728", "nif_buyer": "PT510776914", "iva_amount": "5,96", "nif_seller": "510482546"}

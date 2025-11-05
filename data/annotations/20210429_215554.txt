@@ -1,0 +1,1 @@
+{"company": "", "date": "2019-10-23", "address": "rua das lagoas, s/n campo raso 2710-142 sintra", "total": "50,00", "invoice_number": "FT 64P2019/256", "nif_buyer": "510776914", "iva_amount": "9,35", "nif_seller": "500697565"}

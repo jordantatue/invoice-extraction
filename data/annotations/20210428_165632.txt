@@ -1,0 +1,1 @@
+{"company": "mingfan zheng", "date": "2019-03-02", "address": "rua dos fanqueiros 46 1100-231 lisboa", "total": "6.99", "invoice_number": "FAC 201/00001794", "nif_buyer": "510776914", "iva_amount": "1.31", "nif_seller": "246018160"}

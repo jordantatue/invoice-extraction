@@ -1,0 +1,1 @@
+{"company": "ao do loureiro", "date": "20/05/2019", "address": "avenida de berna n91 1050 lisboa", "total": "0.75", "invoice_number": "02010089278", "nif_buyer": "", "iva_amount": "0,14", "nif_seller": "503311332"}

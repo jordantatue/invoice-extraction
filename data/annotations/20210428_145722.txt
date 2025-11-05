@@ -1,0 +1,1 @@
+{"company": "comporest, lda", "date": "01.03.19", "address": "praca da figueira 1100 241 lisboa", "total": "8.00", "invoice_number": "K1190027641", "nif_buyer": "", "iva_amount": "", "nif_seller": "501564292"}

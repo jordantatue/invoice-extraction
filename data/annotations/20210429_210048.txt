@@ -1,0 +1,1 @@
+{"company": "", "date": "2019-10-23", "address": "r s jose 105 lj 1150-322 lisboa", "total": "22.15", "invoice_number": "FS 101/37786", "nif_buyer": "510776914", "iva_amount": "2,96", "nif_seller": "506377229"}

@@ -1,0 +1,1 @@
+{"company": "infraestruturas de portugal, sa", "date": "2019-02-12", "address": "praça da portagem 2809-013 almada", "total": "2.90", "invoice_number": "FS 21011021901/0010722", "nif_buyer": "", "iva_amount": "", "nif_seller": "503 933 813"}

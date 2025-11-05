@@ -1,0 +1,1 @@
+{"company": "aki", "date": "08/06/2018", "address": "urbanização quinta das pevides 2640-408 mafra", "total": "40,95", "invoice_number": "FT 05540111/0187104", "nif_buyer": "510776914", "iva_amount": "7,66", "nif_seller": "502216069"}

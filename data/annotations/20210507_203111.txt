@@ -1,0 +1,1 @@
+{"company": "", "date": "2017-10-06", "address": "av d joao 11, n 13 1999-001 lisboa", "total": "4.37", "invoice_number": "CTT20177FR8610971C2/6529", "nif_buyer": "510776914", "iva_amount": "3.20", "nif_seller": "500077568"}

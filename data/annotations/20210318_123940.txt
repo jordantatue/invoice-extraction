@@ -1,0 +1,1 @@
+{"company": "arques, s.a.", "date": "29.01.19", "address": "raga", "total": "4.90", "invoice_number": "K2190102400", "nif_buyer": "", "iva_amount": "", "nif_seller": "503208426"}

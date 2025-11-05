@@ -1,0 +1,1 @@
+{"company": "radio popular electrodomesticos s.a.", "date": "13/08/2018", "address": "centro c. campo pequeno lisboa", "total": "4,99", "invoice_number": "FS 2800A/104677", "nif_buyer": "510776914", "iva_amount": "0,93", "nif_seller": "500674205"}

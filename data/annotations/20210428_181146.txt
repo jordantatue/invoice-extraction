@@ -1,0 +1,1 @@
+{"company": "alves bandeira, s.a.", "date": "2019-04-05", "address": "vale de vaz 3350 -110 vila nova de poiares", "total": "11,97", "invoice_number": "POST 479A3/4682", "nif_buyer": "510776914", "iva_amount": "2,24", "nif_seller": "500433402"}

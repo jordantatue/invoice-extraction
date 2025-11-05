@@ -1,0 +1,1 @@
+{"company": "", "date": "", "address": "", "total": "12.30", "invoice_number": "A / 3171", "nif_buyer": "510776914", "iva_amount": "2.30", "nif_seller": "164579869"}

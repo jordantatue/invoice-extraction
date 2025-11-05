@@ -1,0 +1,1 @@
+{"company": "bp", "date": "2018-07-08", "address": "mil regos e.n.247 2655-319 ericeira", "total": "30,00", "invoice_number": "FS 27077_007/522667", "nif_buyer": "PT510776914", "iva_amount": "5,61", "nif_seller": "507603257"}

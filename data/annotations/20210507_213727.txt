@@ -1,0 +1,1 @@
+{"company": "jmtd - ferragens do combro lda", "date": "30/10/2017", "address": "calçada do combro n 3 1200-110 lisboa", "total": "2,40", "invoice_number": "A/20262", "nif_buyer": "510776914", "iva_amount": "0,45", "nif_seller": "513 350 535"}

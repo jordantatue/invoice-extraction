@@ -1,0 +1,1 @@
+{"company": "parque chão do loureiro", "date": "21/02/2019", "address": "avenida de berna n 1 1050 lisboa", "total": "1.45", "invoice_number": "19/703/000777", "nif_buyer": "", "iva_amount": "0.27", "nif_seller": "503311332"}

@@ -1,0 +1,1 @@
+{"company": "", "date": "2019-08-16", "address": "largo do almada 1045-217 vila nova milfontes", "total": "75,10", "invoice_number": "FT 1/23538", "nif_buyer": "510776914", "iva_amount": "0,50", "nif_seller": "510994911"}

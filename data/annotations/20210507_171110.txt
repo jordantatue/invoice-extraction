@@ -1,0 +1,1 @@
+{"company": "botaminuto", "date": "2019-10-10", "address": "r. alfredo silva lt 18 arm1 2765-656 s.d.r", "total": "15.9", "invoice_number": "FTR 6/16341", "nif_buyer": "510776914", "iva_amount": "2.97", "nif_seller": "506175502"}

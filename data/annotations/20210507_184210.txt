@@ -1,0 +1,1 @@
+{"company": "supermercados, lda", "date": "16-12-2019", "address": "estrada nacional 116, km1 edificio intermarche 26655-139 ericeira", "total": "25.01", "invoice_number": "FT6173P1T00A9C9007EA965/15129", "nif_buyer": "", "iva_amount": "4.68", "nif_seller": "514161621"}

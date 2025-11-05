@@ -1,0 +1,1 @@
+{"company": "bp", "date": "2019-05-07", "address": "e.n.125 km 55.9 8400-489 porches-sul", "total": "41,20", "invoice_number": "FT 268031001/001152", "nif_buyer": "514407395", "iva_amount": "0,14", "nif_seller": "513615598"}

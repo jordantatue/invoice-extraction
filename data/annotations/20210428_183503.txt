@@ -1,0 +1,1 @@
+{"company": "casa bernardino", "date": "2019-02-11", "address": "rua 5 de outubro 28 b 2655-255 ericeira", "total": "11,00", "invoice_number": "FS A9/282", "nif_buyer": "510776914", "iva_amount": "2,06", "nif_seller": "104 110 015"}

@@ -1,0 +1,1 @@
+{"company": "drogaria semino", "date": "2019-02-25", "address": "semino 8125-303 quarteira", "total": "29,55", "invoice_number": "FS 2/36035", "nif_buyer": "514407395", "iva_amount": "5,53", "nif_seller": "502607300"}

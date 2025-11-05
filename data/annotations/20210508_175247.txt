@@ -1,0 +1,1 @@
+{"company": "carvalho, batista, lda", "date": "2018-06-05", "address": "rua d. estefania, 98 e 1000-154 lisboa", "total": "27,80", "invoice_number": "FT 2018A17/3751", "nif_buyer": "510776914", "iva_amount": "5,20", "nif_seller": "500537380"}

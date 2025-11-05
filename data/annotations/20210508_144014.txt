@@ -1,0 +1,1 @@
+{"company": "intermarche", "date": "27-11-2018", "address": "2655-139 - ericeira", "total": "40.37", "invoice_number": "FT6173P1T00A85C007DDB37/17558", "nif_buyer": "510776914", "iva_amount": "7.55", "nif_seller": "514163623"}

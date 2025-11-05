@@ -1,0 +1,1 @@
+{"company": "restaurante ramires", "date": "2019-03-25", "address": "rua 25 de abril, n 14 8200-433 guia", "total": "31.00", "invoice_number": "FR A191/890", "nif_buyer": "514407395", "iva_amount": "0.68", "nif_seller": "508870525"}

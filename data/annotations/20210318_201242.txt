@@ -1,0 +1,1 @@
+{"company": "a padaria portuguesa", "date": "2019-01-06", "address": "praca luis de camies nº 44 1200-243 lisboa", "total": "12.99", "invoice_number": "011/2395780", "nif_buyer": "510776914", "iva_amount": "2,43", "nif_seller": "509323065"}

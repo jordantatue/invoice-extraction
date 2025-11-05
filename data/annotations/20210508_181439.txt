@@ -1,0 +1,1 @@
+{"company": "mini mercado sao jose", "date": "2018/06/29", "address": "calcada da ajuda 212 a 218 1300-017 lisboa", "total": "36.21", "invoice_number": "FT 18/000000003064", "nif_buyer": "510776914", "iva_amount": "1.26", "nif_seller": "PT259316164"}

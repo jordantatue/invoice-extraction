@@ -1,0 +1,1 @@
+{"company": "retrosaria zora", "date": "2017-11-05", "address": "c c odivelas parque lj 1146 est paia 2675-000", "total": "1.80", "invoice_number": "FS 002/241001", "nif_buyer": "", "iva_amount": "0.34", "nif_seller": "506419991"}

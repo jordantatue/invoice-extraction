@@ -1,0 +1,1 @@
+{"company": "portvgalia", "date": "2017-11-20", "address": "rua de s.caetano n 4 1249-132 lisboa", "total": "54.80", "invoice_number": "FS 113/156787", "nif_buyer": "510776914", "iva_amount": "6.73", "nif_seller": "502036700"}

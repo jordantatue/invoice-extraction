@@ -1,0 +1,1 @@
+{"company": "restaurante pinoquio", "date": "2019-08-12", "address": "praca dos restauradores, n.79/801250-188 lisboa", "total": "65,10", "invoice_number": "FT 1A1901/15860", "nif_buyer": "510776914", "iva_amount": "8,06", "nif_seller": "500547572"}

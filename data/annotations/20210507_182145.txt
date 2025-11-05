@@ -1,0 +1,1 @@
+{"company": "", "date": "2019-09-02", "address": "rua comandante germano dias, 10 2780-247 oeiras", "total": "9.15", "invoice_number": "FAC 101/00022723", "nif_buyer": "510776914", "iva_amount": "1.71", "nif_seller": "510793568"}

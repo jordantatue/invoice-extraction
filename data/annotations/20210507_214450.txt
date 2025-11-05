@@ -1,0 +1,1 @@
+{"company": "galp energia", "date": "", "address": "rua correia teles 20 b 1350-099 lisboa", "total": "78.65", "invoice_number": "012010004110FAAA00000112/22017/000012253", "nif_buyer": "510776914", "iva_amount": "14.71", "nif_seller": "PT500119406"}

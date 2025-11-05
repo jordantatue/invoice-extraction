@@ -1,0 +1,1 @@
+{"company": "", "date": "15-02-19", "address": "roque av 23 de julho 9 2800-099 cova da piedade", "total": "73.38", "invoice_number": "", "nif_buyer": "510776914", "iva_amount": "", "nif_seller": "507193920"}

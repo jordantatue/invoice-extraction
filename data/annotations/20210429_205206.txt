@@ -1,0 +1,1 @@
+{"company": "restaurante rubro avenida", "date": "2019-12-02", "address": "rua rodrigues dos santos , 35 1150-278 lisboa", "total": "50.50", "invoice_number": "FT 102/12352", "nif_buyer": "510776914", "iva_amount": "6.14", "nif_seller": "509165559"}

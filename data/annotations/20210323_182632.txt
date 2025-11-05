@@ -1,0 +1,1 @@
+{"company": "farmacia silveira algarve", "date": "17-03-2019", "address": "8135-014 almancil", "total": "20,51", "invoice_number": "F U203/8698", "nif_buyer": "514407395", "iva_amount": "3,84", "nif_seller": "507760964"}

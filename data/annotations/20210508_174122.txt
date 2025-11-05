@@ -1,0 +1,1 @@
+{"company": "radio popular electrodomesticos s.a.", "date": "07/11/2018", "address": "146- cc.spacio olivais 1800-079 lisboa", "total": "65,98", "invoice_number": "FS 1460A/189278", "nif_buyer": "510776914", "iva_amount": "12,23", "nif_seller": "500674205"}

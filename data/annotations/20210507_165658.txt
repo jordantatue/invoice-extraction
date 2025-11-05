@@ -1,0 +1,1 @@
+{"company": "pollux lisboa", "date": "2019-10-15", "address": "rua fanqueiros, 276 1149-031 lisboa", "total": "54,00", "invoice_number": "FT 2019A182/121046", "nif_buyer": "510776914", "iva_amount": "10.100", "nif_seller": "500267995"}

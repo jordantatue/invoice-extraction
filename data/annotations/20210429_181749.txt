@@ -1,0 +1,1 @@
+{"company": "delta q", "date": "2019-08-09", "address": "av. liberdade, 144 e/f 1250-146 lisboa", "total": "32,40", "invoice_number": "FS 2A1904/15202", "nif_buyer": "510776914", "iva_amount": "4,10", "nif_seller": "500853975"}

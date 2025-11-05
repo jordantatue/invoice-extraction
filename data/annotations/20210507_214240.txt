@@ -1,0 +1,1 @@
+{"company": "worten", "date": "02/12/2017", "address": "edificio amoreiras plaza rua maria ulrich 1 1070-169 lisboa", "total": "544.96", "invoice_number": "FT HRX005/000467", "nif_buyer": "PT510776914", "iva_amount": "101.90", "nif_seller": "503630330"}

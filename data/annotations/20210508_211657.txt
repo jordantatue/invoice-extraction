@@ -1,0 +1,1 @@
+{"company": "galp", "date": "2018-06-19", "address": "rua dr burnay 2 2655-369ericeira", "total": "60.00", "invoice_number": "012010003342FAAA00000122922018/000012900", "nif_buyer": "510776914", "iva_amount": "11.22", "nif_seller": "PT505799650"}

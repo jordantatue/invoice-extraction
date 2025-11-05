@@ -1,0 +1,1 @@
+{"company": "massimo dutti", "date": "20-03-2019", "address": "avenida fontes pereria de melo, nº49 2º esq 1050-120 lisboa", "total": "19,95", "invoice_number": "FS 004574012019/138083", "nif_buyer": "510776914", "iva_amount": "3.60", "nif_seller": "502608285"}

@@ -1,0 +1,1 @@
+{"company": "concessão rodoviária", "date": "2018-06-06", "address": "ca da torre da aguilha - edifício brisa -5-599 são domingos de rana", "total": "0,35", "invoice_number": "FS 05011031802/0108782", "nif_buyer": "", "iva_amount": "", "nif_seller": "502 790 024"}

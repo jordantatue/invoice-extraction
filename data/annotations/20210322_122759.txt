@@ -1,0 +1,1 @@
+{"company": "ctt expresso", "date": "2019-03-26", "address": "sede edifício ctt expresso marl, lugar do quintanilho 664-500 são julião do tojal", "total": "7,26", "invoice_number": "FR CTE2019FR881095603/138", "nif_buyer": "514407395", "iva_amount": "1,36", "nif_seller": "504520296"}

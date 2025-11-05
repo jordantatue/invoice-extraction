@@ -1,0 +1,1 @@
+{"company": "saisanskar, lda", "date": "2019/11/26", "address": "rua de sao jose n. 105 1150-322 lisboa", "total": "48,35", "invoice_number": "A1/256", "nif_buyer": "510776914", "iva_amount": "0,37", "nif_seller": "515 638 161"}

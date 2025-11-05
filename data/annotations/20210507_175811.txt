@@ -1,0 +1,1 @@
+{"company": "bazarshopping", "date": "2019-09-16", "address": "alameda santo antonio dos capuchos 2a 1150-220 quinta de sao pedro lisboa", "total": "6.45", "invoice_number": "FAC 101/00031351", "nif_buyer": "510776914", "iva_amount": "1.21", "nif_seller": "259645575"}

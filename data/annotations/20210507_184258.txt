@@ -1,0 +1,1 @@
+{"company": "", "date": "2019-10-30", "address": "e n 247 posto bp, mil regos 2655-319 ericeira", "total": "40", "invoice_number": "FR 270773001/001187", "nif_buyer": "PT510776914", "iva_amount": "7,48", "nif_seller": "507603257"}

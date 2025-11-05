@@ -1,0 +1,1 @@
+{"company": "", "date": "05-11-2018", "address": "estrada das laranjeiras 1500-423 lisboa", "total": "26,70", "invoice_number": "02420/9999305N", "nif_buyer": "510776914", "iva_amount": "4,99", "nif_seller": ""}

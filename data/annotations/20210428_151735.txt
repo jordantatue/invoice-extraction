@@ -1,0 +1,1 @@
+{"company": "botaminuto", "date": "2019-03-02", "address": "centro comercial amoreiras, lj 5041 1070 lisboa", "total": "25.60", "invoice_number": "FTR 6/3900", "nif_buyer": "510776914", "iva_amount": "4,79", "nif_seller": "506175502"}

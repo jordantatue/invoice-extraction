@@ -1,0 +1,1 @@
+{"company": "bp", "date": "2019-06-18", "address": "a21 malveira-mafra km 13,6 2640-367 mafra", "total": "37,99", "invoice_number": "FR 27311_003/008973", "nif_buyer": "PT510776914", "iva_amount": "7,10", "nif_seller": "507603257"}

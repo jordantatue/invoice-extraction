@@ -1,0 +1,1 @@
+{"company": "cyber clube ericeira", "date": "2018-07-26", "address": "praça da republica 11 2655-347 ericeira", "total": "1,50", "invoice_number": "FSC 009/30724", "nif_buyer": "510776914", "iva_amount": "0,281", "nif_seller": "244765766"}

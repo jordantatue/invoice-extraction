@@ -1,0 +1,1 @@
+{"company": "bp duarte pacheco", "date": "2019-07-25", "address": "av engº duarte pacheco pa sul 1070-100 lisboa", "total": "76,85", "invoice_number": "FS 27406_004/363327", "nif_buyer": "", "iva_amount": "14,37", "nif_seller": "500052999"}

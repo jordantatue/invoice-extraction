@@ -1,0 +1,1 @@
+{"company": "note", "date": "29/06/2018", "address": "praca dos restauradores n 58 1250-998 lisboa", "total": "3,19", "invoice_number": "FS DDH002/227873", "nif_buyer": "PT510776914", "iva_amount": "0,60", "nif_seller": "502011475"}

@@ -1,0 +1,1 @@
+{"company": "auchan", "date": "2019-11-30", "address": "trav. teixeira junior, 1 1300-553 lisboa", "total": "14,30", "invoice_number": "1240722019110000/128465", "nif_buyer": "510776914", "iva_amount": "2,79", "nif_seller": "502607920"}

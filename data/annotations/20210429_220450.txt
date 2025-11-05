@@ -1,0 +1,1 @@
+{"company": "aki", "date": "07/11/2019", "address": "av. das nações unidas 1600-528 lisboa", "total": "6,99", "invoice_number": "FT 05110211/0291297", "nif_buyer": "510776914", "iva_amount": "1,31", "nif_seller": "506848558"}

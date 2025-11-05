@@ -1,0 +1,1 @@
+{"company": "amelia", "date": "2018-06-06", "address": "rua ferreira borges nº 101 1350 - 128 lisboa", "total": "7.00", "invoice_number": "FT 004/99", "nif_buyer": "510776914", "iva_amount": "1.24", "nif_seller": "514355719"}

@@ -1,0 +1,1 @@
+{"company": "a. s. d. pacheco", "date": "2019/05/29", "address": "", "total": "22.21", "invoice_number": "FR 141907420191110N/3556", "nif_buyer": "510776914", "iva_amount": "4.15", "nif_seller": "503043745"}

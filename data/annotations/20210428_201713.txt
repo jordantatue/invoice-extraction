@@ -1,0 +1,1 @@
+{"company": "impressão digital, lda.", "date": "2019-05-29", "address": "r. prof. eduardo araujo coelho praça central 14f - telheiras 1600-614 lisboa", "total": "39,98", "invoice_number": "19FT 001/643", "nif_buyer": "510776914", "iva_amount": "7.48", "nif_seller": "507 104 129"}

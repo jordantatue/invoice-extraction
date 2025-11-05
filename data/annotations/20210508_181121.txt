@@ -1,0 +1,1 @@
+{"company": "", "date": "2018-06-08", "address": "1750-007 lisboa", "total": "25,00", "invoice_number": "FS 1A1801/4935", "nif_buyer": "510776914", "iva_amount": "4,67", "nif_seller": "500544000"}

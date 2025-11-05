@@ -1,0 +1,1 @@
+{"company": "security center", "date": "2018-07-24", "address": "oeiras parque, lj. 1016 2770-219 oeiras", "total": "2.40", "invoice_number": "FTR 2/10453", "nif_buyer": "510776914", "iva_amount": "0.45", "nif_seller": "502179856"}

@@ -1,0 +1,1 @@
+{"company": "intermarche", "date": "28-02-2019", "address": "estrada nacional 116, km1 2655-139 - ericeira", "total": "40.53", "invoice_number": "FT6173P1T00A9C7007EA965/3302", "nif_buyer": "510776914", "iva_amount": "7.58", "nif_seller": "514163623"}

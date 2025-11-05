@@ -1,0 +1,1 @@
+{"company": "auto taxis hebepe, unipessoal lda", "date": "04/01/2019", "address": "rua jose augusto gouveia, nº18, 4ºesq 2690-571 santa iria da azoia", "total": "15,60", "invoice_number": "13212", "nif_buyer": "510776914", "iva_amount": "", "nif_seller": "504 619 560"}

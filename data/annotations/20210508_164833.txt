@@ -1,0 +1,1 @@
+{"company": "china town", "date": "2018-8-14", "address": "lg pocinhos n4 cv pq resid s sebastiao lt3 2655-833ericeira", "total": "10.40", "invoice_number": "FT 1/201700009608", "nif_buyer": "510776914", "iva_amount": "1.94", "nif_seller": "PT267731469"}

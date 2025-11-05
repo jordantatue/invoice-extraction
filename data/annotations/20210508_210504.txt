@@ -1,0 +1,1 @@
+{"company": "tal costa braz", "date": "2018-04-02", "address": "cc. continente, piso -1 lj e11", "total": "25,00", "invoice_number": "FS 1A1801/2819", "nif_buyer": "510776914", "iva_amount": "4,67", "nif_seller": "152535403"}

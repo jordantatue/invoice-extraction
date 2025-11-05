@@ -1,0 +1,1 @@
+{"company": "m bricolage s.a.", "date": "16/07/2019", "address": "r. qta do paizinho 10/12 2790-237 carnaxide", "total": "116.63", "invoice_number": "FS 201901208/029843", "nif_buyer": "514407395", "iva_amount": "21.81", "nif_seller": "506848558"}

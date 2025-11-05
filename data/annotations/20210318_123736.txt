@@ -1,0 +1,1 @@
+{"company": "agaparques, s.a.", "date": "29.01.19", "address": "4700 braga", "total": "7.50", "invoice_number": "K1190120396", "nif_buyer": "", "iva_amount": "", "nif_seller": "503208426"}

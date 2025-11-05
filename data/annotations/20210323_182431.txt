@@ -1,0 +1,1 @@
+{"company": "brisa - concessão rodoviária s.a.", "date": "2019-05-13", "address": "quinta da torre da aguilha 2785-599 são domingos de rana", "total": "20,95", "invoice_number": "FS 02221061902/0008207", "nif_buyer": "", "iva_amount": "", "nif_seller": "502 790 024"}

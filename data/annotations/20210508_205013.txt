@@ -1,0 +1,1 @@
+{"company": "bicho d'agua", "date": "2018-06-23", "address": "praias de s.joao de caparica 2825 444 s. joao de caparica", "total": "20.50", "invoice_number": "FS18EDBA/4128", "nif_buyer": "510776914", "iva_amount": "2.13", "nif_seller": "510443397"}

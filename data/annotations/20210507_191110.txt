@@ -1,0 +1,1 @@
+{"company": "", "date": "2017-11-18", "address": "", "total": "4,00", "invoice_number": "E1 1700/000370", "nif_buyer": "PT510776914", "iva_amount": "0,75", "nif_seller": ""}

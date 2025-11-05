@@ -1,0 +1,1 @@
+{"company": "manuel brites & filhos, lda", "date": "2019-02-15", "address": "r. fernandes fonseca, lj 301/2 cc. mouraria 1100-238 lisboa", "total": "1.90", "invoice_number": "C2 / 1318851", "nif_buyer": "510776914", "iva_amount": "0.36", "nif_seller": "500177686"}

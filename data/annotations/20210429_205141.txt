@@ -1,0 +1,1 @@
+{"company": "atalho do mercado", "date": "2019-11-21", "address": "mercado municipal de campo de ourique 1350-075 campo de ourique", "total": "14,00", "invoice_number": "FS 5A1901/45292", "nif_buyer": "510776914", "iva_amount": "1,61", "nif_seller": "510854230"}

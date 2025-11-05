@@ -1,0 +1,1 @@
+{"company": "terra nostra garden hotel", "date": "10-11-2017", "address": "largo vasco bensaude 13 9500-103 ponta delgada", "total": "155.00", "invoice_number": "FR0375254", "nif_buyer": "510776914", "iva_amount": "9.50", "nif_seller": "512 012 210"}

@@ -1,0 +1,1 @@
+{"company": "sabor com caracter, lda", "date": "2019-03-27", "address": "rua anchieta n.3 1200-023 lisboa", "total": "23,00", "invoice_number": "FS S/0118551", "nif_buyer": "510776914", "iva_amount": "2,87", "nif_seller": "PT508297575"}

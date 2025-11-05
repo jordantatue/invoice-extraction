@@ -1,0 +1,1 @@
+{"company": "tomas ribeiro", "date": "2019-07-11", "address": "r actor antonio silva, n7, 1649-033 lisboa", "total": "1,98", "invoice_number": "FT 04400011901010617/003055", "nif_buyer": "510776914", "iva_amount": "0.11", "nif_seller": "500829993"}

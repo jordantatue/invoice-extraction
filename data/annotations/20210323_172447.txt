@@ -1,0 +1,1 @@
+{"company": "p.d. combustiveis lda", "date": "24/07/2019", "address": "8200 ferreiras", "total": "40.48", "invoice_number": "FT 61155100032019/00019826", "nif_buyer": "514407395", "iva_amount": "7.57", "nif_seller": "509600450"}

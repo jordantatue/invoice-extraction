@@ -1,0 +1,1 @@
+{"company": "costa & costa lda", "date": "2019/05/14", "address": "rua joao das regras n.1 - b 1100-293 lisboa", "total": "1,05", "invoice_number": "A/47837", "nif_buyer": "510776914", "iva_amount": "0,20", "nif_seller": "500337683"}

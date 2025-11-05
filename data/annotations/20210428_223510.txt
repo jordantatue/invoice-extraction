@@ -1,0 +1,1 @@
+{"company": "lelimel", "date": "2019-05-23", "address": "casal cordeiro ericeira 2655-000 ericeira", "total": "16,70", "invoice_number": "FR 14/9692", "nif_buyer": "510776914", "iva_amount": "3.12", "nif_seller": "501328670"}

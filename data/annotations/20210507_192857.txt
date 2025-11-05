@@ -1,0 +1,1 @@
+{"company": "da silva xavier lda", "date": "17/11/2017", "address": "da picheleira n-144 a/b 1900-374 lisboa", "total": "34", "invoice_number": "FTS A2017/00029714", "nif_buyer": "510776914", "iva_amount": "6.36", "nif_seller": "502926317"}

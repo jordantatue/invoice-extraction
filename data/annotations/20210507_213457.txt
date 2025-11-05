@@ -1,0 +1,1 @@
+{"company": "solred", "date": "01-11-17", "address": "avenida v6 8500-510 portimao", "total": "20.00", "invoice_number": "98003", "nif_buyer": "510776914", "iva_amount": "3.74", "nif_seller": "502928794"}

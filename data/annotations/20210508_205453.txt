@@ -1,0 +1,1 @@
+{"company": "new hamburgology", "date": "2018-07-14", "address": "", "total": "75.50", "invoice_number": "FT 129/10349", "nif_buyer": "510776914", "iva_amount": "9.77", "nif_seller": "506784360"}

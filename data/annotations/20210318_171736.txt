@@ -1,0 +1,1 @@
+{"company": "", "date": "2019-01-02", "address": "campolide", "total": "106,50", "invoice_number": "00821925", "nif_buyer": "", "iva_amount": "", "nif_seller": ""}

@@ -1,0 +1,1 @@
+{"company": "edimel-materiais edificacao lda", "date": "2019/01/09", "address": "lisboa", "total": "7,50", "invoice_number": "00484560", "nif_buyer": "", "iva_amount": "", "nif_seller": ""}

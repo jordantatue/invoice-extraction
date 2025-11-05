@@ -1,0 +1,1 @@
+{"company": "oriente perfeito", "date": "2019-07-14", "address": "entreposto serva bloco 1 fracao f apartado 7001 vale paraiso 8200-567 ferreiras albufeira", "total": "6,00", "invoice_number": "FT 1A1905E1/33832", "nif_buyer": "514407395", "iva_amount": "1,12", "nif_seller": "509183760"}

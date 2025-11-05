@@ -1,0 +1,1 @@
+{"company": "sulaman minimercado", "date": "2019/02/04", "address": "rua das pretas,21 1150-270 lisboa", "total": "19,98", "invoice_number": "A/26752", "nif_buyer": "510776914", "iva_amount": "3,74", "nif_seller": "513889949"}

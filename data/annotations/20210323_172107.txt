@@ -1,0 +1,1 @@
+{"company": "mb multibanco", "date": "2019-07-14", "address": "", "total": "10,00", "invoice_number": "FS A2019C1/000157303", "nif_buyer": "514407395", "iva_amount": "", "nif_seller": "502604751"}

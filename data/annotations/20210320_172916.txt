@@ -1,0 +1,1 @@
+{"company": "p.a. cepsa olhao i", "date": "27/03/2019", "address": "e.n. 125 pinheiros de marim 8700 olhao", "total": "75.13", "invoice_number": "61007100012019/00005179", "nif_buyer": "514407395", "iva_amount": "14.05", "nif_seller": "515196339"}

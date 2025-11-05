@@ -1,0 +1,1 @@
+{"company": "restaurante gina", "date": "2018-05-22", "address": "", "total": "47.00", "invoice_number": "FR 18LRG/838", "nif_buyer": "510776914", "iva_amount": "4.14", "nif_seller": "176153446"}

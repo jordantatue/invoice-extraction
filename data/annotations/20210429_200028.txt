@@ -1,0 +1,1 @@
+{"company": "bp", "date": "2019-11-04", "address": "rua domingos sequeira, n20 1350-122 lisboa", "total": "39,57", "invoice_number": "FR 270652001/056368", "nif_buyer": "PT510776914", "iva_amount": "7,40", "nif_seller": "508359333"}

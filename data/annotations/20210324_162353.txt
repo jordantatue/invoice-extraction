@@ -1,0 +1,1 @@
+{"company": "norauto", "date": "24/02/2019", "address": "avenida dos cavaleiros 2794-057 carnaxide", "total": "22.45", "invoice_number": "FT 060600003/332060", "nif_buyer": "510776914", "iva_amount": "4.21", "nif_seller": "503629995"}

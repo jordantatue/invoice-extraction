@@ -1,0 +1,1 @@
+{"company": "deck bar", "date": "21/03/2019", "address": "vilamoura 8125", "total": "17.50", "invoice_number": "102 A19/8031", "nif_buyer": "514407395", "iva_amount": "1.15", "nif_seller": "260389846"}

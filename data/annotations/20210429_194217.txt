@@ -1,0 +1,1 @@
+{"company": "wanggui chen", "date": "2019-9-26", "address": "rua poco dos negros n147 1200-337lisboa", "total": "3.00", "invoice_number": "FT 1/201700020593", "nif_buyer": "510776914", "iva_amount": "0.00", "nif_seller": "PT252031776"}

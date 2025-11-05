@@ -1,0 +1,1 @@
+{"company": "bricomarché", "date": "2019/06/06", "address": "rua do bairro da abrotea 8600-710 lagos", "total": "9,99", "invoice_number": "FT 0E06011219/4248", "nif_buyer": "514407395", "iva_amount": "1,87", "nif_seller": "507821147"}

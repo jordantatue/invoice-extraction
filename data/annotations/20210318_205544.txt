@@ -1,0 +1,1 @@
+{"company": "outlet do bairro", "date": "2019-01-15", "address": "rua almeida e sousa, 21 1350-006", "total": "6.50", "invoice_number": "003/388", "nif_buyer": "510776914", "iva_amount": "1.22", "nif_seller": "513740198"}

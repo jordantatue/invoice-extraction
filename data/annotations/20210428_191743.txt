@@ -1,0 +1,1 @@
+{"company": "propel", "date": "01/03/2019", "address": "a2 km 193/sub-lanco castro verde 7701 almodovar", "total": "20.32", "invoice_number": "FT 63376100012019/00001440", "nif_buyer": "510776914", "iva_amount": "3.80", "nif_seller": "500223810"}

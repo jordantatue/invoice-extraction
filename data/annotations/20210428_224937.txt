@@ -1,0 +1,1 @@
+{"company": "glória nunes pereira, lda", "date": "2019/05/09", "address": "urbanização da camacha, lt.5 2655-302 ericeira", "total": "14.40", "invoice_number": "004/0007113", "nif_buyer": "510776914", "iva_amount": "2.69", "nif_seller": "504239120"}

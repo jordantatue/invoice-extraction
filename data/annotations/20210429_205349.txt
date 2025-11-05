@@ -1,0 +1,1 @@
+{"company": "chef nino", "date": "2019-11-15", "address": "rua rodrigues faria, 103 1300-501 1300-501 lisboa", "total": "22,00", "invoice_number": "FT 001/00065799", "nif_buyer": "510776914", "iva_amount": "2,54", "nif_seller": "509930025"}

@@ -1,0 +1,1 @@
+{"company": "solar dos duques", "date": "2019-11-29", "address": "rua almeida e sousa 58-b 1350-016 lisboa", "total": "182,10", "invoice_number": "", "nif_buyer": "510776914", "iva_amount": "10,68", "nif_seller": "514 574 283"}

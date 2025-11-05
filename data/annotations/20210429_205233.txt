@@ -1,0 +1,1 @@
+{"company": "memoria", "date": "2019-11-09", "address": "", "total": "44,50", "invoice_number": "FT 4A19Z1/3855", "nif_buyer": "510776914", "iva_amount": "5,71", "nif_seller": "501200339"}

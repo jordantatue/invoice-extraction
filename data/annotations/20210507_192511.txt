@@ -1,0 +1,1 @@
+{"company": "", "date": "16/11/2017", "address": "", "total": "19.99", "invoice_number": "FS 2800A/071758", "nif_buyer": "510776914", "iva_amount": "3,74", "nif_seller": "500674205"}

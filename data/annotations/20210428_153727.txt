@@ -1,0 +1,1 @@
+{"company": "ferragens g lemos lda", "date": "06-03-2019", "address": "rua da madalena 101 - 107 1100-319 lisboa", "total": "1.50", "invoice_number": "FT POS19V12/1904362", "nif_buyer": "510776914", "iva_amount": "0.28", "nif_seller": "501378723"}

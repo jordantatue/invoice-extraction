@@ -1,0 +1,1 @@
+{"company": "metropolitano de lisboa, e.p.e", "date": "2019-12-06", "address": "avenida fontes pereira de melo n28 1069-095 lisboa", "total": "5.00", "invoice_number": "FS 01081900/0084237 003357320/3271707104", "nif_buyer": "", "iva_amount": "", "nif_seller": "500192855"}

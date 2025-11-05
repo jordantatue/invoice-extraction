@@ -1,0 +1,1 @@
+{"company": "galp", "date": "12-08-18", "address": "rua correia teles 20 b 1350-099lisboa", "total": "5.72", "invoice_number": "012010004110F AAB00000112722018/000008093", "nif_buyer": "510776914", "iva_amount": "1.07", "nif_seller": "PT500119406"}

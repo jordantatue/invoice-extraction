@@ -1,0 +1,1 @@
+{"company": "galp", "date": "22-07-18", "address": "e. n. 390 km 0.39400 7645-000vila nova", "total": "15.00", "invoice_number": "022010003856FAAA00000168972018/000011424", "nif_buyer": "510776914", "iva_amount": "2.80", "nif_seller": "PT508018870"}

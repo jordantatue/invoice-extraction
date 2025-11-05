@@ -1,0 +1,1 @@
+{"company": "", "date": "2019-02-21", "address": "av da marina loja 5 e 6 8125-468", "total": "1.60", "invoice_number": "FT 014/6775", "nif_buyer": "514407395", "iva_amount": "0.18", "nif_seller": "509875645"}

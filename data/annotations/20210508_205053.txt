@@ -1,0 +1,1 @@
+{"company": "próxima travessia, lda", "date": "2018-06-01", "address": "mercado municipal de campo de ourique 1350-075 campo de", "total": "18,00", "invoice_number": "FS 5A1801/24449", "nif_buyer": "510776914", "iva_amount": "2,07", "nif_seller": "510 854 230"}

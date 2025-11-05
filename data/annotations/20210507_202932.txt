@@ -1,0 +1,1 @@
+{"company": "paulo e. p. soares", "date": "2017-10-30", "address": "av. de ceuta", "total": "60,00", "invoice_number": "FR 27032 006/003163", "nif_buyer": "PT510776914", "iva_amount": "11,22", "nif_seller": "132477378"}

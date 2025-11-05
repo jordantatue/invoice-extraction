@@ -1,0 +1,1 @@
+{"company": "galp", "date": "2018-07-23", "address": "av da india 1400-207 lisboa", "total": "25,01", "invoice_number": "", "nif_buyer": "510776914", "iva_amount": "4.68", "nif_seller": "510391346"}

@@ -1,0 +1,1 @@
+{"company": "intermarche", "date": "15-07-2018", "address": "budens vila do bispo", "total": "85.00", "invoice_number": "7P1100A85C008A5EFA/4742", "nif_buyer": "510776914", "iva_amount": "15.89", "nif_seller": "504537512"}

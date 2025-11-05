@@ -1,0 +1,1 @@
+{"company": "rogerio pais, lda", "date": "2019-05-24", "address": "avenida almirante reis, 9-e 1150-007 lisboa", "total": "39,50", "invoice_number": "FS 1A1901/4154", "nif_buyer": "510776914", "iva_amount": "7,39", "nif_seller": "500544000"}

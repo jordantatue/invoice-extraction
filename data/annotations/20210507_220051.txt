@@ -1,0 +1,1 @@
+{"company": "solar dos presuntos", "date": "2017-11-02", "address": "rua das portas de st antao, 150 1150-269 lisboa", "total": "144,30", "invoice_number": "F 331/006801", "nif_buyer": "510776914", "iva_amount": "1,36", "nif_seller": "500 129 312"}

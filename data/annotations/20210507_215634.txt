@@ -1,0 +1,1 @@
+{"company": "restaurante o polar", "date": "", "address": "pico da da torre n. 26 9300 004 c lobos", "total": "47,95", "invoice_number": "FS T1/8072", "nif_buyer": "510776914", "iva_amount": "4,39", "nif_seller": "130261920"}

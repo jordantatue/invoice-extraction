@@ -1,0 +1,1 @@
+{"company": "loulé mar shopping", "date": "2019-03-30", "address": "r. actor antonio silva, n7, 1649-033 lisboa", "total": "16,34", "invoice_number": "06470071901010617/000174", "nif_buyer": "514407395", "iva_amount": "3,06", "nif_seller": "500829993"}

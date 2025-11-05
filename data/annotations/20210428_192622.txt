@@ -1,0 +1,1 @@
+{"company": "staples", "date": "2019-02-20", "address": "2795-684 carnaxide", "total": "24,90", "invoice_number": "A0000000032010", "nif_buyer": "", "iva_amount": "", "nif_seller": ""}

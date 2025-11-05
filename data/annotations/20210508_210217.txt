@@ -1,0 +1,1 @@
+{"company": "drogaria sao domingos", "date": "2018-06-14", "address": "rua d. antao de almada 4a 1100-372 lisboa", "total": "2,75", "invoice_number": "FT 1A1802/1132", "nif_buyer": "510776914", "iva_amount": "0,51", "nif_seller": "500480427"}

@@ -1,0 +1,1 @@
+{"company": "la focacceria pugliese", "date": "2019-09-22", "address": "da rua tomas de anunciacao, 25 1350-321", "total": "6.30", "invoice_number": "FS 003/69935", "nif_buyer": "510776914", "iva_amount": "0.72", "nif_seller": "513755772"}

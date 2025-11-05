@@ -1,0 +1,1 @@
+{"company": "a vida portuguesa", "date": "2019-08-16", "address": "rua anchieta, 11 1200-023 lisboa", "total": "21,60", "invoice_number": "NFS 2019A12/1930227", "nif_buyer": "510776914", "iva_amount": "4,05", "nif_seller": "508072000"}

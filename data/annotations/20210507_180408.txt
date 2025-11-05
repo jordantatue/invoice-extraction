@@ -1,0 +1,1 @@
+{"company": "area infinitas - design de interiores, s.a.", "date": "2019-09-10", "address": "centro colombo lj a004", "total": "206,10", "invoice_number": "VD123706854", "nif_buyer": "510776914", "iva_amount": "38,54", "nif_seller": "502560097"}

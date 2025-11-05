@@ -1,0 +1,1 @@
+{"company": "bonjardim", "date": "", "address": "travessa de santo antao n.11 1150-312", "total": "38.00", "invoice_number": "FS 003/134031", "nif_buyer": "510776914", "iva_amount": "4.75", "nif_seller": "500776199"}

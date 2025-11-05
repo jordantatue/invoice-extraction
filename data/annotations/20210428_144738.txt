@@ -1,0 +1,1 @@
+{"company": "montepio geral", "date": "2019-02-05", "address": "rua do ouro 219-241 1200-094 lisboa", "total": "1.60", "invoice_number": "018106", "nif_buyer": "", "iva_amount": "", "nif_seller": "500766681"}

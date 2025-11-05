@@ -1,0 +1,1 @@
+{"company": "worten", "date": "2019-06-26", "address": "cerro alagoa, 3fase, lote 32 vale mangude 8200-161 albufeira", "total": "9,99", "invoice_number": "FS BJY001/014951", "nif_buyer": "514407395", "iva_amount": "1,87", "nif_seller": "503630330"}

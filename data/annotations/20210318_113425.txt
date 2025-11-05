@@ -1,0 +1,1 @@
+{"company": "nascimento da silva filhos lda", "date": "2019/01/24", "address": "1070 029 lisboa", "total": "73,80", "invoice_number": "00470178", "nif_buyer": "", "iva_amount": "", "nif_seller": ""}

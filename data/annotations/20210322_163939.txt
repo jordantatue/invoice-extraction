@@ -1,0 +1,1 @@
+{"company": "cp comboios de portugal, e. p. e.", "date": "2019-05-15", "address": "calcada do duque 20 1249-109 lisboa 36", "total": "22,40", "invoice_number": "FT 2545/6423", "nif_buyer": "514407395", "iva_amount": "1,27", "nif_seller": "500498601"}

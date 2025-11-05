@@ -1,0 +1,1 @@
+{"company": "pingo doce", "date": "2019-11-09", "address": "r actor antonio silva, n7, 1649-033 lisboa", "total": "12.17", "invoice_number": "FT 04420071902222312/000709", "nif_buyer": "510776914", "iva_amount": "1.72", "nif_seller": "500829993"}

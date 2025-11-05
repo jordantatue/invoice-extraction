@@ -1,0 +1,1 @@
+{"company": "h3", "date": "2019-11-25", "address": "galvan n10 torre3 p3 301a303 1070-274 lisboa", "total": "7.50", "invoice_number": "FS 120/248238", "nif_buyer": "510776914", "iva_amount": "0.95", "nif_seller": "506734363"}

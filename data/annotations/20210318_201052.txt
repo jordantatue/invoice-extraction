@@ -1,0 +1,1 @@
+{"company": "a vida portuguesa", "date": "2019-01-19", "address": "rua ivens 2 1200-227 lisboa", "total": "38,40", "invoice_number": "2019A15/1900275", "nif_buyer": "510776914", "iva_amount": "7,18", "nif_seller": "508072000"}

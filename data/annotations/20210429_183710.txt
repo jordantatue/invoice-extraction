@@ -1,0 +1,1 @@
+{"company": "rest. tertulia do monte", "date": "2019-09-02", "address": "av. saboia 515 d estoril", "total": "72,20", "invoice_number": "1A19E1/2181", "nif_buyer": "510776914", "iva_amount": "8,80", "nif_seller": "508 336 600"}

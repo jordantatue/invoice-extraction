@@ -1,0 +1,1 @@
+{"company": "airoferragens, lda", "date": "2018-07-24", "address": "av. das acácias, zona 5, n. 4 loja 1 2675-221 odivelas", "total": "6,45", "invoice_number": "FRI 2018/18756", "nif_buyer": "510776914", "iva_amount": "1,21", "nif_seller": "503 738 301"}

@@ -1,0 +1,1 @@
+{"company": "sapori di puglia", "date": "2019-09-01", "address": "rua tomas de anunciacao , 25 1350-321", "total": "9.65", "invoice_number": "FS 003/68149", "nif_buyer": "510776914", "iva_amount": "1.25", "nif_seller": "513755772"}

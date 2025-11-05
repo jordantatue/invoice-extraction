@@ -1,0 +1,1 @@
+{"company": "h&m", "date": "22-01-2019", "address": "rua do carmo, 42. 1100-062 lisboa", "total": "47,96", "invoice_number": "030101732516200003/00005", "nif_buyer": "510776914", "iva_amount": "8,97", "nif_seller": "PT506431134"}

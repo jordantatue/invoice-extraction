@@ -1,0 +1,1 @@
+{"company": "chaviarte", "date": "17-05-2019", "address": "estrada nacional 116- km 1 2655-139 ericeira", "total": "13.00", "invoice_number": "FTS 1971/1575", "nif_buyer": "510776914", "iva_amount": "2.43", "nif_seller": "514539542"}

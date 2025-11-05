@@ -1,0 +1,1 @@
+{"company": "autovidreira, lda", "date": "2019-05-31", "address": "rua poco dos negros 1200-336 l - lisboa", "total": "86,10", "invoice_number": "FR N.129", "nif_buyer": "510776914", "iva_amount": "16,10", "nif_seller": "500483310"}

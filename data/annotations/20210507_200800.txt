@@ -1,0 +1,1 @@
+{"company": "lenave", "date": "2017-11-06", "address": "rua são paulo lisboa 1200-430 lisboa", "total": "15.38", "invoice_number": "FS 2017A9/8077", "nif_buyer": "510776914", "iva_amount": "2.88", "nif_seller": "502405422"}

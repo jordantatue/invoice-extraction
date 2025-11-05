@@ -1,0 +1,1 @@
+{"company": "", "date": "10/11/2017", "address": "1100-391 lisboa", "total": "7.83", "invoice_number": "PO 001/1709679", "nif_buyer": "510776914", "iva_amount": "1.46", "nif_seller": "501 470 492"}

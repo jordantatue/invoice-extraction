@@ -1,0 +1,1 @@
+{"company": "modelo continente hipermercados sa", "date": "18/10/2019", "address": "", "total": "8,00", "invoice_number": "FT AA1046 026803", "nif_buyer": "PT510776914", "iva_amount": "1,50", "nif_seller": "502011475"}

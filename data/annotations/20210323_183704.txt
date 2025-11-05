@@ -1,0 +1,1 @@
+{"company": "bar clube ciclismo", "date": "2019-03-12", "address": "rua da comunidade lusiada l7 r/c esq. 8800 000 tavira", "total": "8,00", "invoice_number": "FS S1/0001129", "nif_buyer": "514407395", "iva_amount": "0,37", "nif_seller": "PT193498251"}

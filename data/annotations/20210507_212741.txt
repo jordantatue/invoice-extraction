@@ -1,0 +1,1 @@
+{"company": "", "date": "2017-11-13", "address": "rua da madalena 176 1100-324 lisboa", "total": "11,81", "invoice_number": "FS A/11462", "nif_buyer": "510776914", "iva_amount": "0,00", "nif_seller": "500557721"}

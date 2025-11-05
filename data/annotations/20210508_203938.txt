@@ -1,0 +1,1 @@
+{"company": "vitor m. agostinho, lda.", "date": "2018-07-26", "address": "rua luis de camões 35a 1495-083 algés", "total": "16,00", "invoice_number": "FR V111V111/55997", "nif_buyer": "510776914", "iva_amount": "2,99", "nif_seller": "501322698"}

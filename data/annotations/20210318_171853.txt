@@ -1,0 +1,1 @@
+{"company": "siletrica lda", "date": "2019-01-22", "address": "lisboa", "total": "8,88", "invoice_number": "0086466", "nif_buyer": "", "iva_amount": "", "nif_seller": ""}

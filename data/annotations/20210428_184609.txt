@@ -1,0 +1,1 @@
+{"company": "bp", "date": "2019-03-24", "address": "area serv. santarem km 84 poente 2001-701 pernes", "total": "97,23", "invoice_number": "FR 26800_002/011532", "nif_buyer": "PT510776914", "iva_amount": "17,40", "nif_seller": "500052999"}

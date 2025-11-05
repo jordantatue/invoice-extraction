@@ -1,0 +1,1 @@
+{"company": "lidl", "date": "29.06.19", "address": "av prof dr anibal cavaco silva - loulé", "total": "0,59", "invoice_number": "VD 049200319/001218", "nif_buyer": "514407395", "iva_amount": "0,11", "nif_seller": "503 340 855"}

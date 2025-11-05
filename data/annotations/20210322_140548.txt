@@ -1,0 +1,1 @@
+{"company": "flor de val eguas", "date": "2019-06-03", "address": "almancil", "total": "8.50", "invoice_number": "FR B19/43", "nif_buyer": "514407395", "iva_amount": "0.24", "nif_seller": "514407395"}

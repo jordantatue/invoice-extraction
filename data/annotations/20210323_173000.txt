@@ -1,0 +1,1 @@
+{"company": "carlos eduardo pires pereira", "date": "26/07/2019", "address": "rua da republica nº1 almancil 8135-121 almancil", "total": "2.550", "invoice_number": "109 2019/3699", "nif_buyer": "514407395", "iva_amount": "0.480", "nif_seller": "165 661 178"}

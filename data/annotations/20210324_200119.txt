@@ -1,0 +1,1 @@
+{"company": "casa magane", "date": "2019/03/04", "address": "rua são joão da mata nrº 25 e 27 1200-847 lisboa", "total": "7,20", "invoice_number": "A/23694", "nif_buyer": "510776914", "iva_amount": "1,35", "nif_seller": "220378541"}

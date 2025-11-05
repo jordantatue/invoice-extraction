@@ -1,0 +1,1 @@
+{"company": "", "date": "17/10/2019", "address": "quinta da mogueta sobreiro-mafra", "total": "40.00", "invoice_number": "FT 63342100052019/00007678", "nif_buyer": "510776914", "iva_amount": "7.48", "nif_seller": ""}

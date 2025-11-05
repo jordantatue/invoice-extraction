@@ -1,0 +1,1 @@
+{"company": "", "date": "06/11/2019", "address": "1350-075 lisboa", "total": "10,00", "invoice_number": "S 10112019A/04117", "nif_buyer": "", "iva_amount": "1,87", "nif_seller": "506 998 720"}

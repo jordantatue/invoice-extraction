@@ -1,0 +1,1 @@
+{"company": "lidl", "date": "18.07.19", "address": "rua josé farinha, n21 - lisboa", "total": "6,45", "invoice_number": "FS 015501419/046365", "nif_buyer": "510776914", "iva_amount": "0,37", "nif_seller": "503 340 855"}

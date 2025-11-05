@@ -1,0 +1,1 @@
+{"company": "haagen dazs c. c. amoreiras", "date": "2019-04-25", "address": "r. afonso praça n30 1º esqº 1495-061 algés", "total": "6.40", "invoice_number": "FS 102/272749", "nif_buyer": "510776914", "iva_amount": "0.74", "nif_seller": "500052905"}

@@ -1,0 +1,1 @@
+{"company": "chandra datta kandel", "date": "2019-04-29", "address": "rua dos fanqueiros nº102/108 1100 232 lisboa", "total": "2,50", "invoice_number": "32/55047", "nif_buyer": "510776914", "iva_amount": "0.47", "nif_seller": "260788546"}

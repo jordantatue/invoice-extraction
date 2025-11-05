@@ -1,0 +1,1 @@
+{"company": "", "date": "2019-05-16", "address": "", "total": "135.00", "invoice_number": "FR 19NG/6537", "nif_buyer": "510776914", "iva_amount": "4.29", "nif_seller": ""}

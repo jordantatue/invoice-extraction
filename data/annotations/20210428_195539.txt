@@ -1,0 +1,1 @@
+{"company": "repsol", "date": "12-01-19", "address": "av 23 de julho 9 2800-099 cova da piedade", "total": "76,19", "invoice_number": "193684", "nif_buyer": "510776914", "iva_amount": "12,64", "nif_seller": "507193920"}

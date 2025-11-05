@@ -1,0 +1,1 @@
+{"company": "intermarche", "date": "17-12-2019", "address": "terras compridas lt8 2625-716 vialonga", "total": "30.00", "invoice_number": "FT FT1285P1T0049C8007867AE/26183", "nif_buyer": "510776914", "iva_amount": "5.61", "nif_seller": "513 450 866"}

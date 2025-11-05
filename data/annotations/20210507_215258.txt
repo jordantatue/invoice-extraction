@@ -1,0 +1,1 @@
+{"company": "power", "date": "2017-10-18", "address": "rua bernardo vicente zona id arenes 2560-677 torres vedras", "total": "50,00", "invoice_number": "POST A1/61894", "nif_buyer": "510776914", "iva_amount": "9,35", "nif_seller": "503216810"}

@@ -1,0 +1,1 @@
+{"company": "galp", "date": "19-11-19", "address": "av elias garcia, 76 - 3º e 1049-055lisboa", "total": "40.00", "invoice_number": "012010012812FAAA00000111742019/000019341", "nif_buyer": "510776914", "iva_amount": "7.48", "nif_seller": "PT505341549"}

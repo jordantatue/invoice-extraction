@@ -1,0 +1,1 @@
+{"company": "galp", "date": "31-10-19", "address": "loteamento casal troca lote 2 2675-626odivelas", "total": "24.25", "invoice_number": "012010004707FAAA00000118332019/000035828", "nif_buyer": "510776914", "iva_amount": "4.53", "nif_seller": "PT508799589"}

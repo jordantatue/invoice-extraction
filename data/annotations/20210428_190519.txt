@@ -1,0 +1,1 @@
+{"company": "restaurante gina", "date": "2019-03-26", "address": "", "total": "45.00", "invoice_number": "FR 19LRG/513", "nif_buyer": "510776914", "iva_amount": "1.30", "nif_seller": "176153446"}

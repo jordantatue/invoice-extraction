@@ -1,0 +1,1 @@
+{"company": "galp", "date": "2019-06-04", "address": "rua tomas da fonseca torre c, 2º 1600-209lisboa", "total": "20,00", "invoice_number": "012010004335FAAA00000114422019/000001545", "nif_buyer": "514407395", "iva_amount": "3.74", "nif_seller": "PT503043745"}

@@ -1,0 +1,1 @@
+{"company": "galp", "date": "2019/03/01", "address": "rua tomas fonseca", "total": "15.28", "invoice_number": "FR 1155475201911AVG/314", "nif_buyer": "510776914", "iva_amount": "2.86", "nif_seller": "503043745"}

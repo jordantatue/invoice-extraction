@@ -1,0 +1,1 @@
+{"company": "", "date": "14-12-2019", "address": "urb terras compridas lt8 2625-716 vialonga", "total": "50.00", "invoice_number": "FT FT1285P1700A9C8007B67AE/25940", "nif_buyer": "510776914", "iva_amount": "9.35", "nif_seller": "513 450 866"}

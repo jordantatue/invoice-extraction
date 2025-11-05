@@ -1,0 +1,1 @@
+{"company": "chaves do areeiro", "date": "2019-03-11", "address": "praça francisco sá carneiro 10 dlisboa 1000 160 lisboa", "total": "23,76", "invoice_number": "FR 20151145/1965", "nif_buyer": "510776914", "iva_amount": "4,44", "nif_seller": "500601534"}

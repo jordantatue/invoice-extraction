@@ -1,0 +1,1 @@
+{"company": "", "date": "17/11/2017", "address": "rua da palma 273 1100-391 lisboa", "total": "5.01", "invoice_number": "PO 001/1709899", "nif_buyer": "510776914", "iva_amount": "0.94", "nif_seller": "501 470 492"}

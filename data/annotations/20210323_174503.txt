@@ -1,0 +1,1 @@
+{"company": "f. raminhos & filhos, lda", "date": "2019-05-02", "address": "rua do comercio n.62 8700 olhao", "total": "46,60", "invoice_number": "VD002.0011399", "nif_buyer": "514407395", "iva_amount": "8,71", "nif_seller": "500 682 470"}

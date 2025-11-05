@@ -1,0 +1,1 @@
+{"company": "garagem auto lis", "date": "22/06/2018", "address": "rua da palma 273 1100-391 lisboa", "total": "50.00", "invoice_number": "PO 001/1805081", "nif_buyer": "510776914", "iva_amount": "9.35", "nif_seller": "501 470 492"}

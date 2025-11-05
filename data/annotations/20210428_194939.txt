@@ -1,0 +1,1 @@
+{"company": "barata & miranda lda", "date": "2019-05-01", "address": "praça da republica 7 2655-368 ericeira", "total": "93.55", "invoice_number": "FS 207/38048", "nif_buyer": "510776914", "iva_amount": "11.13", "nif_seller": "500321620"}

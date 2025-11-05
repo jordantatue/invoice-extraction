@@ -1,0 +1,1 @@
+{"company": "oz energia", "date": "2019-09-30", "address": "av duque de avila n 79 100", "total": "11,01", "invoice_number": "POST 50031/49313", "nif_buyer": "510776914", "iva_amount": "2,06", "nif_seller": "509152635"}

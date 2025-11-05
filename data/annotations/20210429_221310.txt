@@ -1,0 +1,1 @@
+{"company": "worten", "date": "11/11/2019", "address": "", "total": "17.98", "invoice_number": "FT HRX3016390", "nif_buyer": "PT510776914", "iva_amount": "3,56", "nif_seller": "503030330"}

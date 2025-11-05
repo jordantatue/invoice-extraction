@@ -1,0 +1,1 @@
+{"company": "", "date": "2019-04-30", "address": "1350-120", "total": "45.85", "invoice_number": "FS 002/26014", "nif_buyer": "510776914", "iva_amount": "5.47", "nif_seller": "500477892"}

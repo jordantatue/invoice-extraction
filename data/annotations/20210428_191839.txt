@@ -1,0 +1,1 @@
+{"company": "", "date": "2019-02-05", "address": "qta fonte edf alvares cabral 02770-190 paco arcos", "total": "5,62", "invoice_number": "FT 021140420190102/00001225", "nif_buyer": "510776914", "iva_amount": "0,79", "nif_seller": "510710014"}

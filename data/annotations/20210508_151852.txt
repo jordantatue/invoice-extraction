@@ -1,0 +1,1 @@
+{"company": "farmacia central de telheiras", "date": "10-09-2018", "address": "rua prof eduardo araujo coelho 5-a 1600-235 lisboa", "total": "2,79", "invoice_number": "F U009/14995", "nif_buyer": "510776914", "iva_amount": "0,16", "nif_seller": "514170689"}

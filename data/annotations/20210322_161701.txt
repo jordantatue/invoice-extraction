@@ -1,0 +1,1 @@
+{"company": "intermarche", "date": "2019/07/05", "address": "poco partido - carvoeiro 8400-557 lagoa", "total": "1,72", "invoice_number": "3F5C111219/753", "nif_buyer": "514407395", "iva_amount": "0,32", "nif_seller": "502 897 767"}

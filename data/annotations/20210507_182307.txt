@@ -1,0 +1,1 @@
+{"company": "chaves de alvalade", "date": "2019-09-16", "address": "av. de roma 43c - 1700-341 lisboa", "total": "11,60", "invoice_number": "0000002045", "nif_buyer": "510776914", "iva_amount": "2,17", "nif_seller": "513129065"}

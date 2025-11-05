@@ -1,0 +1,1 @@
+{"company": "shopping loule", "date": "10-05-2019", "address": "av antonio maria adrade de sousa lj n-5 8100-724 loule", "total": "11,10", "invoice_number": "2019001424", "nif_buyer": "514407395", "iva_amount": "2,08", "nif_seller": "509713955"}

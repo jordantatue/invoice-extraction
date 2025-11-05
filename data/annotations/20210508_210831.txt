@@ -1,0 +1,1 @@
+{"company": "psa carvoeiro", "date": "10/04/2018", "address": "", "total": "28.50", "invoice_number": "FT 61037100012018/00001494", "nif_buyer": "510776914", "iva_amount": "5.33", "nif_seller": "509213944"}

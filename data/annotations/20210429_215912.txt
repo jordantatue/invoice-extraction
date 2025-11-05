@@ -1,0 +1,1 @@
+{"company": "flying tiger", "date": "2019-10-03", "address": "rua nova do almada, 105 1200-219 lisboa", "total": "17,00", "invoice_number": "19114/199403", "nif_buyer": "510776914", "iva_amount": "3,18", "nif_seller": "510414850"}

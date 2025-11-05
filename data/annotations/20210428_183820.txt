@@ -1,0 +1,1 @@
+{"company": "ctt - correios de portugal sa", "date": "2018-12-04", "address": "av. d. joao ii, n 13 1999-001 lisboa", "total": "3.95", "invoice_number": "FR CTT2018FR881060302/7259", "nif_buyer": "510776914", "iva_amount": "0.00", "nif_seller": "500077568"}

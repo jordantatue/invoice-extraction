@@ -1,0 +1,1 @@
+{"company": "az de comer", "date": "2019-09-08", "address": "rua almeida e sousa, 32 1350-012 campo de ourique", "total": "9.65", "invoice_number": "FS 002/697008", "nif_buyer": "510776914", "iva_amount": "1.11", "nif_seller": "501692070"}

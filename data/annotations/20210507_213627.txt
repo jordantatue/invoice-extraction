@@ -1,0 +1,1 @@
+{"company": "franco & barbosa lda", "date": "2017-11-24", "address": "calçada da ajuda, 133 1300-008", "total": "9.00", "invoice_number": "FT 002/51", "nif_buyer": "510776914", "iva_amount": "1.68", "nif_seller": "500120544"}

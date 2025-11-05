@@ -1,0 +1,1 @@
+{"company": "", "date": "2018-05-16", "address": "av jose malhoa 16-1099 lisboa", "total": "93,11", "invoice_number": "FR 4305TPV2/280005296", "nif_buyer": "510776914", "iva_amount": "17,41", "nif_seller": "503 769 959"}

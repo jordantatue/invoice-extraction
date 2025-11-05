@@ -1,0 +1,1 @@
+{"company": "casa do preto", "date": "2018-07-15", "address": "estrada de chao de meninos 2710-194 sintra", "total": "15.70", "invoice_number": "FS 002/916167", "nif_buyer": "510776914", "iva_amount": "2.47", "nif_seller": "502911263"}

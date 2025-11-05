@@ -1,0 +1,1 @@
+{"company": "auto - estradas do atlântico, sa", "date": "2019-02-12", "address": "apartado 327 ec torres vedras 2564-912 torres vedras", "total": "2,90", "invoice_number": "FS 08111101902/0023689", "nif_buyer": "", "iva_amount": "", "nif_seller": "504290592"}

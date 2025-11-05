@@ -1,0 +1,1 @@
+{"company": "propel", "date": "19/05/2018", "address": "", "total": "57.81", "invoice_number": "FT 63136100002018/00000905", "nif_buyer": "510776914", "iva_amount": "10.81", "nif_seller": "500223840"}

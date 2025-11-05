@@ -1,0 +1,1 @@
+{"company": "renato fonseca lda", "date": "2019-03-27", "address": "rua d. marcelino franco, n.26-28 8800-347 tavira", "total": "6.77", "invoice_number": "FP001.0008030", "nif_buyer": "514407395", "iva_amount": "1.27", "nif_seller": "509916975"}

@@ -1,0 +1,1 @@
+{"company": "casa caravela", "date": "2019-03-30", "address": "marina plaza, lojas 77 e 77 - vilamoura", "total": "6,00", "invoice_number": "J1/204780", "nif_buyer": "", "iva_amount": "4,88", "nif_seller": "514407395"}

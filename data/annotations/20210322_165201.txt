@@ -1,0 +1,1 @@
+{"company": "rei do peixe assado", "date": "2019-06-26", "address": "sitio do semino - estrada quarteira", "total": "15.34", "invoice_number": "FR A191/131", "nif_buyer": "514407395", "iva_amount": "0.67", "nif_seller": "514238950"}

@@ -1,0 +1,1 @@
+{"company": "infraestruturas de portugal, s.a.", "date": "2019-01-06", "address": "praca da portagem 2809-013 lisboa", "total": "1.05", "invoice_number": "160104/3538572", "nif_buyer": "", "iva_amount": "", "nif_seller": "503 933 813"}

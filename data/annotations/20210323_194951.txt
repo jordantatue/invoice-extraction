@@ -1,0 +1,1 @@
+{"company": "aki", "date": "2019-02-03", "address": "rua adega da cooperativa 8500-420 portimão", "total": "11,97", "invoice_number": "FT 05390111/0126862", "nif_buyer": "514407395", "iva_amount": "2,24", "nif_seller": "506848558"}

@@ -1,0 +1,1 @@
+{"company": "bp", "date": "2019-08-18", "address": "avenida padre cruz 1600-161 lisboa", "total": "35,35", "invoice_number": "FT 271931001/000031", "nif_buyer": "PT510776914", "iva_amount": "6,61", "nif_seller": "509228739"}

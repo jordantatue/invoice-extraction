@@ -1,0 +1,1 @@
+{"company": "casa das chaves", "date": "2019-06-06", "address": "r. bartolomeu dias, lote 16, lj.3 8200-096 albufeira", "total": "84,20", "invoice_number": "19FS 001/1700", "nif_buyer": "514407395", "iva_amount": "15,74", "nif_seller": "175 067 120"}

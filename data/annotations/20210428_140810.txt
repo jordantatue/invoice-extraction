@@ -1,0 +1,1 @@
+{"company": "euro telemoveis", "date": "2019/02/20", "address": "rua do benformoso, 53/57 1100-083 lisboa", "total": "6,50", "invoice_number": "A1/1547", "nif_buyer": "510776914", "iva_amount": "1,22", "nif_seller": "577264189"}

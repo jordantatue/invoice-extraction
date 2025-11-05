@@ -1,0 +1,1 @@
+{"company": "worten", "date": "12/08/2018", "address": "plaza, rua maria ulrich, 1 1070-169 lisboa", "total": "39,98", "invoice_number": "", "nif_buyer": "PT510776914", "iva_amount": "7,48", "nif_seller": "503630330"}

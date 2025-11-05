@@ -1,0 +1,1 @@
+{"company": "agri power", "date": "2017-10-26", "address": "rua fernando vicente zona ind arenes 677 torres vedras", "total": "50", "invoice_number": "POST A1/62629", "nif_buyer": "", "iva_amount": "9,35", "nif_seller": "503216810"}

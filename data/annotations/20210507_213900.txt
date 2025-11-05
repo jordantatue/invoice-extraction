@@ -1,0 +1,1 @@
+{"company": "mario mendes lda", "date": "2017-10-31", "address": "av miguel bombarda 71 a 1050-162 lisboa", "total": "1,80", "invoice_number": "FS1 MN3/70070", "nif_buyer": "510776914", "iva_amount": "0,34", "nif_seller": "500184003"}

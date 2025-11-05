@@ -1,0 +1,1 @@
+{"company": "vital costa braz", "date": "2019-03-13", "address": "cc. continente, piso -1", "total": "5,25", "invoice_number": "FS 1A1901/2275", "nif_buyer": "514407395", "iva_amount": "0,98", "nif_seller": "282483666"}

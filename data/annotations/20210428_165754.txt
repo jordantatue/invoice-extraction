@@ -1,0 +1,1 @@
+{"company": "oz energia", "date": "2019-03-08", "address": "rua filipe folque, 2 - 3º", "total": "10.00", "invoice_number": "POST 4001A0/170740", "nif_buyer": "510776914", "iva_amount": "1.87", "nif_seller": "509152635"}

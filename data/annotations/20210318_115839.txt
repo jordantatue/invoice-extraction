@@ -1,0 +1,1 @@
+{"company": "makro cash & carry", "date": "2019-02-13", "address": "alfragide", "total": "119,41", "invoice_number": "A0000000032010", "nif_buyer": "", "iva_amount": "", "nif_seller": ""}

@@ -1,0 +1,1 @@
+{"company": "o forno do fraser", "date": "2019-06-03", "address": "rua do casino, nº4 r/c 8400-515 carvoeiro", "total": "11.5", "invoice_number": "FS 1/5850", "nif_buyer": "514407395", "iva_amount": "1.09", "nif_seller": "181528479"}

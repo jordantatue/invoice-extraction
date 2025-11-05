@@ -1,0 +1,1 @@
+{"company": "a padaria portuguesa", "date": "2019-10-20", "address": "rua do ouro, n.94 1100-063 lisboa", "total": "6.00", "invoice_number": "FT 047/2279", "nif_buyer": "510776914", "iva_amount": "1.12", "nif_seller": "509323065"}

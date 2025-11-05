@@ -1,0 +1,1 @@
+{"company": "ferragens e ferramentas", "date": "14/11/2017", "address": "", "total": "39.00", "invoice_number": "FTS A2017/00029292", "nif_buyer": "510776914", "iva_amount": "7.29", "nif_seller": ""}

@@ -1,0 +1,1 @@
+{"company": "ikea", "date": "2019-07-16", "address": "en250, r 28 setembro, 2660 001 frielas", "total": "118,68", "invoice_number": "FAC 45300720190064/735", "nif_buyer": "514407395", "iva_amount": "22.19", "nif_seller": "505116054"}

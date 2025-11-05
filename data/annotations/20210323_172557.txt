@@ -1,0 +1,1 @@
+{"company": "", "date": "2019-07-23", "address": "estrada das escanxinas 8135-016 almancil", "total": "50,04", "invoice_number": "FR 275161002/002487", "nif_buyer": "514407395", "iva_amount": "9,36", "nif_seller": "507161670"}

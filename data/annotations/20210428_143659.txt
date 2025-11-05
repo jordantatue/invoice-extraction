@@ -1,0 +1,1 @@
+{"company": "do zongwo", "date": "2019-12-15", "address": "rua do loreto n 38 1200-242 lisboa", "total": "1.95", "invoice_number": "FAC 101/00000906", "nif_buyer": "510776914", "iva_amount": "0.36", "nif_seller": "237797267"}

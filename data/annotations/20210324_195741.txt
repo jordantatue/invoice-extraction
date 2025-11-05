@@ -1,0 +1,1 @@
+{"company": "drogaria s marcal lda", "date": "2019-03-14", "address": "r s marcal 110 rc", "total": "2.80", "invoice_number": "FR 001/12446", "nif_buyer": "510776914", "iva_amount": "0.52", "nif_seller": "500563381"}

@@ -1,0 +1,1 @@
+{"company": "yanping guan", "date": "2019-6-9", "address": "rua prudencio franco da trindade n19c 2655-344ericeira", "total": "3.40", "invoice_number": "FT 2/201700006490", "nif_buyer": "510776914", "iva_amount": "0.64", "nif_seller": "221589449"}

@@ -1,0 +1,1 @@
+{"company": "", "date": "26/03/19", "address": "", "total": "1,85", "invoice_number": "", "nif_buyer": "", "iva_amount": "", "nif_seller": ""}

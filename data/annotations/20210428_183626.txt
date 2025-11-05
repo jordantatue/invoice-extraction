@@ -1,0 +1,1 @@
+{"company": "erilar", "date": "2018-12-06", "address": "forum são sebastião, loja a 2655-210 ericeira", "total": "59,00", "invoice_number": "FR 1/1072", "nif_buyer": "510776914", "iva_amount": "11,03", "nif_seller": "124713491"}

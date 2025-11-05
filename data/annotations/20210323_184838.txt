@@ -1,0 +1,1 @@
+{"company": "pastelaria mourapão ii", "date": "2019-03-07", "address": "av. da marina loja 5 e 6 8125-468", "total": "3.95", "invoice_number": "FT 014/6831", "nif_buyer": "514407395", "iva_amount": "0.35", "nif_seller": "509875645"}

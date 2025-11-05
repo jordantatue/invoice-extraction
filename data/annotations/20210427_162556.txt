@@ -1,0 +1,1 @@
+{"company": "esil parques de estacionamento s.a.", "date": "2019-03-11", "address": "av. conde valbom, 3b piso 5 1050-068 lisboa", "total": "4,30", "invoice_number": "081168", "nif_buyer": "", "iva_amount": "", "nif_seller": "513311685"}

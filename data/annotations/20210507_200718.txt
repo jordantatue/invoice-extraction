@@ -1,0 +1,1 @@
+{"company": "casa travanca capucho", "date": "2017-11-02", "address": "rua da atalaia nº113 1200 039 lisboa", "total": "11.75", "invoice_number": "17FT 001/4656", "nif_buyer": "510776914", "iva_amount": "2,20", "nif_seller": "108085813"}

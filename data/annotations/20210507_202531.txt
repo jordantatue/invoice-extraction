@@ -1,0 +1,1 @@
+{"company": "worten", "date": "2017-10-04", "address": "olivais de santo antonio s sebastiao 8100-390 loule", "total": "29,99", "invoice_number": "FT AUX501/022783", "nif_buyer": "PT510776914", "iva_amount": "5,61", "nif_seller": "PT503630330"}

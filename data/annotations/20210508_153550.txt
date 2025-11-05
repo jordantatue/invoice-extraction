@@ -1,0 +1,1 @@
+{"company": "maria do rosário da graça roque fernandes", "date": "2018-08-06", "address": "r dr cesar raul da costa andrade lote 2655-242 ericeira", "total": "5,94", "invoice_number": "4720/2018", "nif_buyer": "510776914", "iva_amount": "1,11", "nif_seller": "189578084"}

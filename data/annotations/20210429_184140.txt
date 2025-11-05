@@ -1,0 +1,1 @@
+{"company": "casa bras", "date": "2019-09-12", "address": "rua augusta nº 267/269 1100-052 lisboa", "total": "6.10", "invoice_number": "FS 15100/244021", "nif_buyer": "510776914", "iva_amount": "0.89", "nif_seller": "500057443"}

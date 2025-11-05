@@ -1,0 +1,1 @@
+{"company": "zhang huanzhen", "date": "2019-02-04", "address": "rua santa marta n.43 - a 1150-293 lisboa", "total": "3.40", "invoice_number": "FAC 202/00016717", "nif_buyer": "510776914", "iva_amount": "", "nif_seller": "229460720"}

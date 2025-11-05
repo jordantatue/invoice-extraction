@@ -1,0 +1,1 @@
+{"company": "gespost", "date": "27-10-2019", "address": "av josé malhoa n º 16-1099-091 lisboa", "total": "10,00", "invoice_number": "FR 4333TPV2/290007476", "nif_buyer": "510776914", "iva_amount": "1,87", "nif_seller": "503 769 959"}

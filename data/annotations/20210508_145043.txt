@@ -1,0 +1,1 @@
+{"company": "padaria do bairro", "date": "2018-10-16", "address": "rua da palma no 17 1100-390 lisboa", "total": "12,00", "invoice_number": "FS 8A1801/123067", "nif_buyer": "510776914", "iva_amount": "", "nif_seller": "513902392"}

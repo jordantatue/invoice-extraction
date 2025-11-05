@@ -1,0 +1,1 @@
+{"company": "el corte ingles", "date": "05-05-2019", "address": "", "total": "69.90", "invoice_number": "FC 014019376A/000156", "nif_buyer": "510776914", "iva_amount": "13,07", "nif_seller": ""}

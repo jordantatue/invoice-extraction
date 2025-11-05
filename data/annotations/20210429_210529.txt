@@ -1,0 +1,1 @@
+{"company": "dia portugal", "date": "2019/08/28", "address": "qta fonte edf alvares cabral 02770-190 paco arcos", "total": "1,74", "invoice_number": "FT 021140420190102/00008461", "nif_buyer": "510776914", "iva_amount": "0,10", "nif_seller": "503003808"}

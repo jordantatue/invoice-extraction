@@ -1,0 +1,1 @@
+{"company": "", "date": "2019-03-25", "address": "edificio brisa 03-999 são domingos de rana", "total": "20,95", "invoice_number": "FS 02111061902/0033496", "nif_buyer": "", "iva_amount": "", "nif_seller": "502 790 024"}

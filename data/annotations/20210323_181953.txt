@@ -1,0 +1,1 @@
+{"company": "lizzy's bar 1", "date": "2019-03-21", "address": "av. marina edificio olympus - vilamoura 8125-401 quarteira", "total": "4,10", "invoice_number": "BB/86861", "nif_buyer": "514407395", "iva_amount": "0,47", "nif_seller": "502 663 308"}

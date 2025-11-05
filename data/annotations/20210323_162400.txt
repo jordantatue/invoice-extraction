@@ -1,0 +1,1 @@
+{"company": "intermarche", "date": "2019/06/18", "address": "armação de pera", "total": "3,48", "invoice_number": "0EAA031219/670", "nif_buyer": "514407395", "iva_amount": "0,65", "nif_seller": "508162394"}

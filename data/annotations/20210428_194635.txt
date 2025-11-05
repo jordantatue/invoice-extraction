@@ -1,0 +1,1 @@
+{"company": "pingo doce", "date": "2019-03-31", "address": "", "total": "7.83", "invoice_number": "FS 04420651902251026/010986", "nif_buyer": "510776914", "iva_amount": "0.37", "nif_seller": "500529993"}
